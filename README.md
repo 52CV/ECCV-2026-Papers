@@ -272,7 +272,7 @@
 * [Predictive Structure Improves Video Diffusion Dynamics](https://eccv.ecva.net/virtual/2026/poster/3444)
 
 
-## Video Understanding, Generation and Multimodal Learning(视频理解、生成与多模态学习) (234)
+## Video Understanding, Generation and Multimodal Learning(视频理解、生成与多模态学习) (231)
 * [Towards Effective Long Video Understanding: Dynamic MAS Construction via Meta-Agent](https://eccv.ecva.net/virtual/2026/poster/5579)
 * [LogFA: Efficient Feature-Space Data Augmentation for Egocentric Temporal Action Segmentation](https://eccv.ecva.net/virtual/2026/poster/3894)
 * [EgoEverything: A Benchmark for Human Behavior–Inspired Long-Context Egocentric Video Understanding in AR Environment](https://eccv.ecva.net/virtual/2026/poster/4529)
@@ -284,7 +284,11 @@
 * [Open-Vocabulary Long Term Action Anticipation](https://eccv.ecva.net/virtual/2026/poster/4830)
 * [VC-VAE: Leveraging Video Codecs for Training-Efficient and High-Fidelity Video VAE](https://eccv.ecva.net/virtual/2026/poster/4714)
 * [EventSTU: Event-Guided Efficient Spatio-Temporal Understanding for Video-LLMs](https://eccv.ecva.net/virtual/2026/poster/4847)
-* [Trajectory-Level Continuous Action Representation for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4280)
+
+
+
+
+
 * [TaxoGrasp: Taxonomy-Guided Human Grasp Synthesis with Sparse Contact Constraint](https://eccv.ecva.net/virtual/2026/poster/4890)
 * [Linear Scaling Video VLMs for Long Video Understanding](https://eccv.ecva.net/virtual/2026/poster/3243)
 * [CritiqueDriveVLM: From Verifier-Guided Reinforcement Learning to Latent Thought Distillation for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4408)<br>:star:[code](https://github.com/MICLAB-BUPT/CritiqueDriveVLM)
@@ -296,7 +300,7 @@
 * [V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning](https://eccv.ecva.net/virtual/2026/poster/4392)
 * [GUIDE: Resolving Domain Bias in GUI Agents through Real-Time Web Video Retrieval and Plug-and-Play Annotation](https://eccv.ecva.net/virtual/2026/poster/3244)
 * [Em-Garde: A Propose-Match Framework for Proactive Streaming Video Understanding](https://eccv.ecva.net/virtual/2026/poster/3478)
-* [RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://eccv.ecva.net/virtual/2026/poster/5252)
+
 * [LARY: A Latent Action Representation Yielding Benchmark](https://eccv.ecva.net/virtual/2026/poster/5045)
 * [Distribution-Alignment Bridge for Uncertainty-Aware Text-to-Video Retrieval](https://eccv.ecva.net/virtual/2026/poster/5107)
 * [Towards Memory-Efficient Autoregressive Video Generation via Instance-Specific Parametric Absorption](https://eccv.ecva.net/virtual/2026/poster/4508)
@@ -341,7 +345,7 @@
 * [CoLT: Teaching Multi-Modal Models to Think with Chain of Latent Thoughts](https://eccv.ecva.net/virtual/2026/poster/4776)
 * [ProLaViT: Learning Progressive Latent Visual Thoughts in Structured Latent Space](https://eccv.ecva.net/virtual/2026/poster/3335)
 * [Audio-Visual Continual Test-Time Adaptation without Forgetting](https://eccv.ecva.net/virtual/2026/poster/4051)
-* [From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4492)
+
 * [AffoGato: Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale](https://eccv.ecva.net/virtual/2026/poster/4336)
 * [Q-TriM: Question-Guided Tri-Modal Attention for Audio–Visual Question Answering](https://eccv.ecva.net/virtual/2026/poster/4713)
 * [Beyond Time Shifts: Adapting Omni-LLM as a Reference-Free Evaluator for Generative Audio-Visual Models](https://eccv.ecva.net/virtual/2026/poster/4882)
@@ -939,10 +943,10 @@
 * [CORE-V: Chain-Of-thought REasoning for Image Editing with Visual Interaction](https://eccv.ecva.net/virtual/2026/poster/3188)
 * [Attribute Token Arithmetic: Disentangled and Continuous Semantic Control for Visual Autoregressive Models](https://eccv.ecva.net/virtual/2026/poster/3951)
 
-## Embodied AI, Robotics & Autonomous Driving(具身智能、机器人与自动驾驶) (193)
+## Embodied AI, Robotics & Autonomous Driving(具身智能、机器人与自动驾驶) (197+26)
 
 * [Agent-OBJ: Prompt-Driven 3D Adversaries for Multi-Modal Perception](https://eccv.ecva.net/virtual/2026/poster/5027)
-* [AeroVLA: A Vision-Language-Action Model for UAV Navigation via Minimalist End-to-End Control](https://eccv.ecva.net/virtual/2026/poster/5844)
+
 * [Describe-Then-Act: Proactive Agent Steering via Distilled Language-Action World Models](https://eccv.ecva.net/virtual/2026/poster/4412)<br>:star:[code](https://github.com/MaxPappa/DILLO)
 * [Cooking beyond Frames: A Stereo Event Camera Dataset in the Kitchen](https://eccv.ecva.net/virtual/2026/poster/5281)
 * [SAFER-Activities: A Dataset for Smart Assessment of Fall Events and Routine Activities](https://eccv.ecva.net/virtual/2026/poster/5760)
@@ -953,31 +957,22 @@
 * [WebRetriever: A Large-Scale Comprehensive Benchmark for Efficient Web Agent Evaluation](https://eccv.ecva.net/virtual/2026/poster/5413)
 * [DiverseAD: A Large-Scale Driving Dataset with Diverse Atmospheric Conditions](https://eccv.ecva.net/virtual/2026/poster/4645)
 * [S-VAM: Shortcut Video-Action Model by Self-Distilling Geometric and Semantic Foresight](https://eccv.ecva.net/virtual/2026/poster/3407)
-* [DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4708)
-* [Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3305)
-* [MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning](https://eccv.ecva.net/virtual/2026/poster/4806)<br>:star:[code](https://github.com/xiaomi-mlab/MindDrive)
-* [DiNBV-Grasp: Real-Time Distance-Aware Two-Stage Next-Best-View for Robotic Grasping](https://eccv.ecva.net/virtual/2026/poster/4360)
+
 * [Dual-Anchoring: Addressing State Drift in Vision-Language Navigation](https://eccv.ecva.net/virtual/2026/poster/3365)
 * [Boxer: Robust Lifting of Open-World 2D Bounding Boxes to 3D](https://eccv.ecva.net/virtual/2026/poster/4536)
 * [Unordered Landmark Visual Navigation](https://eccv.ecva.net/virtual/2026/poster/5727)
-* [CausalDrive: Real-time Causal World Models for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3753)
-* [ASSCG: Just-Right Gating over Chattering for Fast–Slow LLM Planning in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3354)
 * [MolmoWeb: Open Visual Web Agent and Open Data for the Open Web](https://eccv.ecva.net/virtual/2026/poster/4684)
-* [ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5991)
-* [Fast and Scalable LiDAR Data Generation for Autonomous Driving Simulation without Raycasting](https://eccv.ecva.net/virtual/2026/poster/5477)
+
 * [CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics](https://eccv.ecva.net/virtual/2026/poster/5710)
 * [Robobench: A Comprehensive Evaluation Benchmark for Multimodal Large Language Models as Embodied Brain](https://eccv.ecva.net/virtual/2026/poster/4213)
 * [Panoramic Affordance Prediction](https://eccv.ecva.net/virtual/2026/poster/3310)
 * [Predicting Consequences and Reinforcing Navigation Policies with Latent World Models](https://eccv.ecva.net/virtual/2026/poster/4904)
-* [MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization](https://eccv.ecva.net/virtual/2026/poster/4202)
+
 * [E3VS-Bench: A Benchmark for Viewpoint-Dependent Active Perception in 3D Gaussian Splatting Scenes](https://eccv.ecva.net/virtual/2026/poster/4639)
-* [RelAfford6D: Relational 6D Affordance Graphs for Constraint-Driven Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4027)
-* [DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation](https://eccv.ecva.net/virtual/2026/poster/3336)
+
 * [Towards Unified World Models for Visual Navigation via Memory-Augmented Planning and Foresight](https://eccv.ecva.net/virtual/2026/poster/4793)<br>:star:[code](https://github.com/UWMILab/UniWM)
 * [Towards Metric-Agnostic Trajectory Forecasting](https://eccv.ecva.net/virtual/2026/poster/5818)
-* [DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5819)
-* [PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3906)
-* [UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4081)
+
 * [ChronoFlow Policy: Unifying Past-Future Interaction Flow in Visuomotor Policy Learning](https://eccv.ecva.net/virtual/2026/poster/3245)
 * [XYZ-IBD: Benchmarking Robust 6D Object Pose Estimation under Real-World Industrial Complexity](https://eccv.ecva.net/virtual/2026/poster/3426)
 * [ORION: Ordinal Neural Collapse as a Representation Prior for Visual Navigation](https://eccv.ecva.net/virtual/2026/poster/3475)
@@ -987,8 +982,7 @@
 * [HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human–Scene Interactions](https://eccv.ecva.net/virtual/2026/poster/3313)
 * [LEO-Fuse: A Modality- and Task-Agnostic Universal Framework for Multimodal Human Sensing](https://eccv.ecva.net/virtual/2026/poster/4825)
 * [CabinSI: Omni-Cabin Spatial Reasoning through Explicit Visual Cognitive Maps](https://eccv.ecva.net/virtual/2026/poster/3315)
-* [EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation](https://eccv.ecva.net/virtual/2026/poster/5886)
-* [Driving like yourself: A Benchmark for Closed-Loop Personalized End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4140)
+
 * [RadarGen: Automotive Radar Point Cloud Generation from Cameras](https://eccv.ecva.net/virtual/2026/poster/4188)
 * [MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning](https://eccv.ecva.net/virtual/2026/poster/4691)
 * [PersonaDrive: Controllable Trajectory Prediction with Multi-Dimensional Driving Personas](https://eccv.ecva.net/virtual/2026/poster/3918)
@@ -999,16 +993,16 @@
 * [360CityArena: A Realistic Virtual Urban Navigation Benchmark for Embodied Agents](https://eccv.ecva.net/virtual/2026/poster/5213)
 * [SP-TransientBench: A Real-Captured Single Photon Perception Benchmark](https://eccv.ecva.net/virtual/2026/poster/4446)
 * [EgoTraj: Real-World Egocentric Human Trajectory](https://eccv.ecva.net/virtual/2026/poster/5974)<br>:star:[code](https://github.com/yehiahmad/EgoTraj)
-* [UniTeD: Unified Temporal Diffusion for Joint Perception and Planning in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4186)
+
 * [What if? Emulative Simulation with World Models for Situated Reasoning](https://eccv.ecva.net/virtual/2026/poster/4721)
 * [MV2GF: Multi-view Pedestrian Detection with a Visual Geometric Foundation Model](https://eccv.ecva.net/virtual/2026/poster/3498)
-* [E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://eccv.ecva.net/virtual/2026/poster/4840)
+
 * [Geometry-Aware Spatio-Temporal Context Modeling for 4D Occupancy Forecasting](https://eccv.ecva.net/virtual/2026/poster/5843)
 * [Generative Lane Topology Reasoning via Autoregressive Model with Geometry Prior](https://eccv.ecva.net/virtual/2026/poster/4869)
 * [Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch](https://eccv.ecva.net/virtual/2026/poster/4773)
 * [HAD: Combining Hierarchical Diffusion with Metric-Decoupled RL for End-to-End Driving](https://eccv.ecva.net/virtual/2026/poster/3249)
-* [Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5392)
-* [ZTRS: Zero-Human Demonstration End-to-end Autonomous Driving with Trajectory Scorer](https://eccv.ecva.net/virtual/2026/poster/4135)
+
+
 * [AgentVLN: Towards Agentic Vision-and-Language Navigation](https://eccv.ecva.net/virtual/2026/poster/3693)
 * [HERO: Heterogeneous Evidential Robust Object-Level Collaborative Perception](https://eccv.ecva.net/virtual/2026/poster/5572)
 * [Learning Transferable Dynamics Priors from Action to World Modeling](https://eccv.ecva.net/virtual/2026/poster/3656)
@@ -1016,24 +1010,23 @@
 * [CooperScene: Multi-Modal Cooperative Autonomy Benchmark with C-V2X Communication Characterization](https://eccv.ecva.net/virtual/2026/poster/4574)
 * [SPEAR: A Simulator for Photorealistic Embodied AI Research](https://eccv.ecva.net/virtual/2026/poster/3273)
 * [TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction](https://eccv.ecva.net/virtual/2026/poster/4734)
-* [Deconfounded Lifelong Learning for Autonomous Driving via Dynamic Knowledge Spaces](https://eccv.ecva.net/virtual/2026/poster/4059)
+
 * [MobileManiBench: Simplifying Model Verification for Mobile Manipulation](https://eccv.ecva.net/virtual/2026/poster/4029)
 * [PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation](https://eccv.ecva.net/virtual/2026/poster/4493)
 * [Stabilizing Real-World Visual Active Tracking with Action-Smooth Test-Time Adaptation](https://eccv.ecva.net/virtual/2026/poster/4009)
 * [WALL-EVE: World Alignment with Rule Learning in Visual Environments](https://eccv.ecva.net/virtual/2026/poster/4314)<br>:star:[code](https://github.com/elated-sawyer/WALL-EVE)
 * [VVSim: A Large-Scale Aerial-Ground Dataset and Benchmark for Cooperative Perception](https://eccv.ecva.net/virtual/2026/poster/4802)
 * [VOCA: Visual Odometry with Codec Awareness](https://eccv.ecva.net/virtual/2026/poster/3509)
-* [RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://eccv.ecva.net/virtual/2026/poster/3802)
+
 * [VIPS: Vehicle-Infrastructure Cooperative Planning Benchmark via Pseudo-Simulation](https://eccv.ecva.net/virtual/2026/poster/3793)
-* [CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/3708)
+
 * [A scalar per patch from pre-trained ViTs enables fast moving navigation in the real world](https://eccv.ecva.net/virtual/2026/poster/3432)
-* [LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5672)
+
 * [PriorMaskMap: Robust Online Vectorized Map Construction with Biased Priors](https://eccv.ecva.net/virtual/2026/poster/4184)
-* [PriorEye: Geospatial Visual Priors for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4451)
+
 * [OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams](https://eccv.ecva.net/virtual/2026/poster/3341)
 * [RoMan-4D: Learning Robot Arm Manipulation from 4D World Models](https://eccv.ecva.net/virtual/2026/poster/3281)
-* [Towards Generalizable Robotic Manipulation in Dynamic Environments](https://eccv.ecva.net/virtual/2026/poster/3319)
-* [Tactile Modality Fusion for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5973)
+
 * [OmniNWM: Unifying the State-Action-Reward Triad for Closed-Loop Panoramic Driving Navigation World Models](https://eccv.ecva.net/virtual/2026/poster/3205)
 * [VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model](https://eccv.ecva.net/virtual/2026/poster/3788)
 * [ZAP: Zero-Shot Assembly Planning with Large Language Models](https://eccv.ecva.net/virtual/2026/poster/5872)
@@ -1054,13 +1047,12 @@
 * [EffiDINO: Task-Specific Model Pruning via Gram Anchoring Subspace Consistency](https://eccv.ecva.net/virtual/2026/poster/3322)
 * [TraversRL: Traversable Pedestrian Pathway Generation With Reinforcement Learning](https://eccv.ecva.net/virtual/2026/poster/4528)
 * [SIMON: SImultaneous Multi-Object Navigation](https://eccv.ecva.net/virtual/2026/poster/4748)
-* [SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3597)
+
 * [Multi-scale Mixture of World Models for Embodied Agents in Evolving Environments](https://eccv.ecva.net/virtual/2026/poster/5948)
 * [LaGen: Towards Autoregressive LiDAR Scene Generation](https://eccv.ecva.net/virtual/2026/poster/4888)
-* [Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/3187)
+
 * [Grasp-Oriented Non-Prehensile Manipulation via Learning a Graspability Field](https://eccv.ecva.net/virtual/2026/poster/3490)
-* [TEX-Drive: Temporal Perception Meets Experience-Guided Mixture-of-Experts for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3743)
-* [UniDriveDreamer: A Single-Stage Multimodal World Model for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4301)
+
 * [OmniFit: Multi-modal 3D Body Fitting via Scale-agnostic Dense Landmark Prediction](https://eccv.ecva.net/virtual/2026/poster/3290)
 * [EvoWorld: A World-Model-Centric Framework for Continuous Self-Evolution of Modular Embodied Skills](https://eccv.ecva.net/virtual/2026/poster/5417)
 * [RAE-NWM: Navigation World Model in Dense Visual Representation Space](https://eccv.ecva.net/virtual/2026/poster/5038)<br>:star:[code](https://github.com/20robo/raenwm)
@@ -1071,7 +1063,7 @@
 * [Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising](https://eccv.ecva.net/virtual/2026/poster/5977)
 * [SynVAR: Synergizing Spatial and Semantic Alignment in Visual Autoregressive Model](https://eccv.ecva.net/virtual/2026/poster/5822)
 * [Thinking from the Robot’s View: The CoT-HRC Benchmark for Human Intent Reasoning in Embodied Collaboration](https://eccv.ecva.net/virtual/2026/poster/5794)<br>:star:[code](https://github.com/Thus-cx/CoT-HRC)
-* [Guide, Think, Act: Interactive Embodied Reasoning for Vision-Language-Action Model](https://eccv.ecva.net/virtual/2026/poster/4448)
+
 * [STEP: Spatial Thinking and Egocentric Pointing for Embodied Instruction Following](https://eccv.ecva.net/virtual/2026/poster/5165)
 * [RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures](https://eccv.ecva.net/virtual/2026/poster/5587)
 * [What Matters in RL-Based Methods for Object-Goal Navigation? An Empirical Study and A Unified Framework](https://eccv.ecva.net/virtual/2026/poster/5774)
@@ -1089,11 +1081,11 @@
 * [HiPolicy: Hierarchical Multi-Frequency Action Chunking for Policy Learning](https://eccv.ecva.net/virtual/2026/poster/5381)
 * [AdaDexGrasp: Adaptive Dexterous Grasping via 3D Visuo-Tactile Representation Fusion](https://eccv.ecva.net/virtual/2026/poster/5885)
 * [SIGMA-Lane: Scale-pyramId Gated MAmba for Temporally Consistent Video Lane Detection](https://eccv.ecva.net/virtual/2026/poster/4169)
-* [VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://eccv.ecva.net/virtual/2026/poster/3580)
+
 * [FlowDec: Temporal Conditional Flow Decorruptor for Robust Continuous Vision-Language Navigation](https://eccv.ecva.net/virtual/2026/poster/4005)
 * [Walk through Paintings : Ego-centric World models from Internet Priors](https://eccv.ecva.net/virtual/2026/poster/3734)
 * [ESTANet: Efficient Online Error Detection in Procedural Videos via Prediction Inconsistency](https://eccv.ecva.net/virtual/2026/poster/3427)
-* [Beyond Imitation: Learning Safe End-to-End Autonomous Driving from Hard Negatives](https://eccv.ecva.net/virtual/2026/poster/3394)
+
 * [LMGenDrive: Bridging Multimodal Understanding and Generative World Modeling for End-to-End Driving](https://eccv.ecva.net/virtual/2026/poster/5240)
 * [3DWay: Generalizing Robot Manipulation via 3D Consistent Waypoints](https://eccv.ecva.net/virtual/2026/poster/4788)
 * [MobileOcc: A Human-Aware Semantic Occupancy Dataset for Mobile Robots](https://eccv.ecva.net/virtual/2026/poster/5480)
@@ -1101,15 +1093,16 @@
 * [SwiftWA: An Efficient Action-Centered World-Action Model](https://eccv.ecva.net/virtual/2026/poster/4887)
 * [Hierarchical 3D Scene Graph Construction and Belief-based Planning for Semantic Navigation](https://eccv.ecva.net/virtual/2026/poster/5648)
 * [Agentic Collaborative Cognition for Zero-Shot 3D Understanding](https://eccv.ecva.net/virtual/2026/poster/4045)
-* [One Demonstration Is Enough for Real-World Robotic Reinforcement Learning](https://eccv.ecva.net/virtual/2026/poster/5855)
+
+
 * [ConTrack: Constrained Hand Motion Tracking with Adaptive Trade-off Control](https://eccv.ecva.net/virtual/2026/poster/3535)
 * [Self-Evolving Just-In-Time Memory for Proactive Embodied Safety](https://eccv.ecva.net/virtual/2026/poster/5121)
 * [XDen-1K: A Density Field Dataset of Real-World Objects](https://eccv.ecva.net/virtual/2026/poster/3952)
-* [Unpaired Geometry-Guided Sim2Real Translation for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5751)
+
 * [CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates](https://eccv.ecva.net/virtual/2026/poster/5459)
-* [UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations](https://eccv.ecva.net/virtual/2026/poster/4832)
+
 * [Tac2Real: Reliable and GPU Visuotactile Simulation for Online Reinforcement Learning and Zero-shot Real-World Deployment](https://eccv.ecva.net/virtual/2026/poster/5180)
-* [World-in-Loop: Online Correction via Event-Triggered World Models for Robust VLA Policies](https://eccv.ecva.net/virtual/2026/poster/4231)
+
 * [BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations](https://eccv.ecva.net/virtual/2026/poster/4104)
 * [Humanoid Whole-Body Manipulation via Active Spatial Brain and Generalizable Action Cerebellum](https://eccv.ecva.net/virtual/2026/poster/3751)
 * [Persistent Robot World Models: Stabilizing Multi-Step Rollouts via Reinforcement Learning](https://eccv.ecva.net/virtual/2026/poster/5951)
@@ -1123,19 +1116,96 @@
 * [Doe-2: 3D Representation World Model for Unified Driving Scene Forecasting](https://eccv.ecva.net/virtual/2026/poster/3909)<br>:star:[code](https://github.com/paryi555/Doe-2)
 * [AMCoNav: Asynchronous Multi-module Collaborative Framework for Embodied Visual Navigation](https://eccv.ecva.net/virtual/2026/poster/5222)
 * [Understanding Cross-Rig Generalization in Automotive Perception: a Multi-Rig Benchmark and Rig Variation Metrics](https://eccv.ecva.net/virtual/2026/poster/3563)
-* [BeyondSight: Object Permanence for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5981)
+
 * [SegDiff: Segmented Trajectory Diffusion for Consistent and Adaptive Robot Manipulation](https://eccv.ecva.net/virtual/2026/poster/3934)
 * [Hi-Nav: Hierarchical Framework for Continuous Vision-Language Navigation via Map Guidance and Waypoint Reasoning](https://eccv.ecva.net/virtual/2026/poster/5599)
 * [HSDF-Lane: Height-Aligned Signed Distance Field with Semantic Lane Prior for 3D Lane Detection](https://eccv.ecva.net/virtual/2026/poster/5119)
 * [UECP: Uncertainty-Enhanced Collaborative Perception](https://eccv.ecva.net/virtual/2026/poster/5602)
 * [DriveVA: Video Action Models are Zero-Shot Drivers](https://eccv.ecva.net/virtual/2026/poster/3252)
-* [MOJITO: Modal Joint Learning for Unified End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3415)
+
 * [Rule-VLN: Bridging Perception and Compliance via Semantic Reasoning and Geometric Rectification](https://eccv.ecva.net/virtual/2026/poster/4813)
 * [Twin-DAgger: Synergizing Digital Twins and Human Corrections for Efficient Robot Manipulation](https://eccv.ecva.net/virtual/2026/poster/5664)
 * [ContextFlow: In-Context Flow Matching for Robot Manipulation](https://eccv.ecva.net/virtual/2026/poster/4946)
 * [DeGuNet: Depth-Guided Ultra-Compact Backbones for Efficient LiDAR-Camera 3D Detection](https://eccv.ecva.net/virtual/2026/poster/4114)
 
-## Multimodal, Video & Document Understanding(多模态、视频与文档理解) (176)
+* VLA
+    * [World-in-Loop: Online Correction via Event-Triggered World Models for Robust VLA Policies](https://eccv.ecva.net/virtual/2026/poster/4231)
+    * [Guide, Think, Act: Interactive Embodied Reasoning for Vision-Language-Action Model](https://eccv.ecva.net/virtual/2026/poster/4448)
+    * [CoMaTrack: Competitive Multi-Agent Game-Theoretic Tracking with Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/3708)
+    * [VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://eccv.ecva.net/virtual/2026/poster/3580)
+    * [Tactile Modality Fusion for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5973)
+    * [Grounding Sim-to-Real Generalization in Dexterous Manipulation: An Empirical Study with Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5392)
+    * [EchoVLA: Robotic Vision-Language-Action Model with Synergistic Declarative Memory for Mobile Manipulation](https://eccv.ecva.net/virtual/2026/poster/5886)
+    * [MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization](https://eccv.ecva.net/virtual/2026/poster/4202)
+    * [E-VLA: Event-Augmented Vision-Language-Action Model for Dark and Blurred Scenes](https://eccv.ecva.net/virtual/2026/poster/4840)
+    * [AeroVLA: A Vision-Language-Action Model for UAV Navigation via Minimalist End-to-End Control](https://eccv.ecva.net/virtual/2026/poster/5844)
+    * [Transport Discrepancy as a Reliability Signal for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5621)
+    * [LaMP: Learning Vision-Language-Action Policies with 3D Scene Flow as Latent Motion Prior](https://eccv.ecva.net/virtual/2026/poster/3193)
+    * [BeTTER: Diagnose the Illusion of Embodied Reasoning in Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5364)
+    * [Understanding the Impact of Geometric Foundation Models on Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5064)
+    * [LEAP-VLA: Latent-Enhanced Action Prototyping via Continuous Residual Latent Spaces for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/3297)
+    * [SAFE-Pruner: Semantic Attention–Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation](https://eccv.ecva.net/virtual/2026/poster/5092)
+    * [Less is More: Reducing Complexity in Vision-Language-Action Systems](https://eccv.ecva.net/virtual/2026/poster/3351)
+    * [VLA-Hijack: A Transferable Patch Attack against Vision-Language-Action Models via Visual Proprioception Hijacking](https://eccv.ecva.net/virtual/2026/poster/4145)
+    * [M2Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/4873)
+    * [CulinaryCut: A Physics-aware Vision-Language-Action Benchmark for Food Cutting via Material Point Method](https://eccv.ecva.net/virtual/2026/poster/5439)
+    * [Teaching Vision-Language-Action Models What to See and Where to Look](https://eccv.ecva.net/virtual/2026/poster/5835)
+    * [VLA-R1: Enhancing Reasoning in Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/4862)
+    * [TDSR-VLA: Transition-aware Denoising Sequence Representations for Vision-Language-Action](https://eccv.ecva.net/virtual/2026/poster/5826)
+    * [Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://eccv.ecva.net/virtual/2026/poster/5640)
+    * [Towards More Efficient Decoding for Autoregressive Vision-language-action Models](https://eccv.ecva.net/virtual/2026/poster/4634)
+    * [PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/3170)
+    * [PARL-VLA: Pruning-Aware On-Policy Reinforcement Learning for Vision-Language-Action Model](https://eccv.ecva.net/virtual/2026/poster/5429)
+    * [Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/3299)
+    * [MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots](https://eccv.ecva.net/virtual/2026/poster/3969)
+    * [HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks](https://eccv.ecva.net/virtual/2026/poster/4630)
+    * [Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation](https://eccv.ecva.net/virtual/2026/poster/4854)
+* 机器人
+    * [One Demonstration Is Enough for Real-World Robotic Reinforcement Learning](https://eccv.ecva.net/virtual/2026/poster/5855)
+    * [Beyond Dense Futures: World Models as Structured Planners for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/3187)
+    * [DVG-WM: Disentangled Video Generation Enables Efficient Embodied World Model for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4708)
+    * [RelAfford6D: Relational 6D Affordance Graphs for Constraint-Driven Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4027)
+    * [Towards Generalizable Robotic Manipulation in Dynamic Environments](https://eccv.ecva.net/virtual/2026/poster/3319)
+    * [RoboStream: Weaving Spatio-Temporal Reasoning with Memory in Vision-Language Models for Robotics](https://eccv.ecva.net/virtual/2026/poster/3802)
+    * [DiNBV-Grasp: Real-Time Distance-Aware Two-Stage Next-Best-View for Robotic Grasping](https://eccv.ecva.net/virtual/2026/poster/4360)
+    * [UniBYD: A Unified Framework for Learning Robotic Manipulation Across Embodiments Beyond Imitation of Human Demonstrations](https://eccv.ecva.net/virtual/2026/poster/4832)
+    * [From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4492)
+    * [Reflection-Aware Reasoning for Non-Line-of-Sight Pedestrian Localization](https://eccv.ecva.net/virtual/2026/poster/4784)
+    * [E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4867)
+    * [RoboClaw: An Agentic Framework for Scalable Long-Horizon Robotic Tasks](https://eccv.ecva.net/virtual/2026/poster/5252)
+    * [TabletopGen: Tabletop Scene Generation and Interactive Simulation for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4437)
+    * [Trajectory-Level Continuous Action Representation for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4280)
+* 自动驾驶
+    * [Less is More: A Simple yet Effective Object-Centric Prompting Strategy for Vision-Language Reasoning in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5576)
+    * [MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5547)
+    * [EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5735)
+    * [Plug-and-Play Traffic Element Awareness for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3305)
+    * [MindDrive: A Vision-Language-Action Model for Autonomous Driving via Online Reinforcement Learning](https://eccv.ecva.net/virtual/2026/poster/4806)<br>:star:[code](https://github.com/xiaomi-mlab/MindDrive)
+    * [MOJITO: Modal Joint Learning for Unified End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3415)
+    * [BeyondSight: Object Permanence for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5981)
+    * [Unpaired Geometry-Guided Sim2Real Translation for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5751)
+    * [Beyond Imitation: Learning Safe End-to-End Autonomous Driving from Hard Negatives](https://eccv.ecva.net/virtual/2026/poster/3394)
+    * [TEX-Drive: Temporal Perception Meets Experience-Guided Mixture-of-Experts for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3743)
+    * [UniDriveDreamer: A Single-Stage Multimodal World Model for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4301)
+    * [SparseDriveV2: Scoring is All You Need for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3597)
+    * [DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation](https://eccv.ecva.net/virtual/2026/poster/3336)
+    * [CausalDrive: Real-time Causal World Models for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3753)
+    * [ASSCG: Just-Right Gating over Chattering for Fast–Slow LLM Planning in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3354)
+    * [ExploreVLA: Dense World Modeling and Exploration for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5991)
+    * [Fast and Scalable LiDAR Data Generation for Autonomous Driving Simulation without Raycasting](https://eccv.ecva.net/virtual/2026/poster/5477)
+    * [DH-VLM: Dual-Horizon Cooperative Latent Reasoning for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5819)
+    * [PixelPilot: Scalable Vision-Language-Action Models for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/3906)
+    * [UniDrive-WM: Unified Understanding, Planning and Generation World Model For Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4081)
+    * [Driving like yourself: A Benchmark for Closed-Loop Personalized End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4140)
+    * [UniTeD: Unified Temporal Diffusion for Joint Perception and Planning in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4186)
+    * [ZTRS: Zero-Human Demonstration End-to-end Autonomous Driving with Trajectory Scorer](https://eccv.ecva.net/virtual/2026/poster/4135)
+    * [Deconfounded Lifelong Learning for Autonomous Driving via Dynamic Knowledge Spaces](https://eccv.ecva.net/virtual/2026/poster/4059)
+    * [LiSTAR: Ray-Centric World Models for 4D LiDAR Sequences in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5672)
+    * [PriorEye: Geospatial Visual Priors for End-to-End Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/4451)
+
+
+
+## Multimodal, Video & Document Understanding(多模态、视频与文档理解) (175)
 
 * [InstrAct: Towards Action-Centric Understanding in Instructional Videos](https://eccv.ecva.net/virtual/2026/poster/5457)
 * [NarrativeTrack: Evaluating Entity-Centric Reasoning for Narrative Understanding](https://eccv.ecva.net/virtual/2026/poster/5493)
@@ -1222,7 +1292,7 @@
 * [Structured Redundancy Modeling for Efficient Visual Token Pruning in High-Resolution MLLMs](https://eccv.ecva.net/virtual/2026/poster/5909)
 * [Learning Sample-wise Rank-Aware Interpolation Weights for Composed Visual Data Retrieval](https://eccv.ecva.net/virtual/2026/poster/4294)
 * [DoCoG: Mask-based Multi-Type Grounded Chain-of-Thought for Document QA](https://eccv.ecva.net/virtual/2026/poster/3695)
-* [Transport Discrepancy as a Reliability Signal for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5621)
+
 * [EatVid-Bench: A Multimodal Fine-Grained Eating Behavior Video Dataset](https://eccv.ecva.net/virtual/2026/poster/5037)
 * [Wavelet-based Intra-video Counterfactual Reasoning for Video Question Grounding](https://eccv.ecva.net/virtual/2026/poster/5697)
 * [CoCo-IR: Conversational Composed Image Retrieval](https://eccv.ecva.net/virtual/2026/poster/4038)
@@ -1492,25 +1562,69 @@
 * [Disentangling and Reusing Interaction Cues for Zero-Shot HOI Detection](https://eccv.ecva.net/virtual/2026/poster/3343)
 
 
-## Vision-Language Models & Foundation Models(视觉语言模型 & 基础模型) (166)
-
-* [Where to Look Matters: Learning Influential Views for VLM-based 3D Visual Grounding](https://eccv.ecva.net/virtual/2026/poster/5244)
-* [M2Tok: Multi-head Multi-codebook Discrete Action Tokenization for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/4873)
+## Vision-Language Models & Foundation Models(视觉语言模型 & 基础模型) (145)
 * [Fourier Compressor: Frequency-Domain Visual Token Compression for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3240)
-* [Hybrid Advantage Estimation with Unified Critic for VLM Agentic Reinforcement Learning](https://eccv.ecva.net/virtual/2026/poster/3403)
-* [Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning](https://eccv.ecva.net/virtual/2026/poster/4206)
-* [Seeing Isn't Orienting: A Cognitively Grounded Hierarchical Benchmark for Object Orientation in MLLMs](https://eccv.ecva.net/virtual/2026/poster/5553)
 * [Token-Based Affordance Grounding with Large Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3304)
-* [EgoDyn-Bench: Evaluating Ego-Motion Understanding in Vision-Centric Foundation Models for Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5735)
-* [From Gaze to Meaning: An AI Agent for Unified Zero-Shot Grounding and Explanation](https://eccv.ecva.net/virtual/2026/poster/5517)
-* [Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction](https://eccv.ecva.net/virtual/2026/poster/3636)
-* [CASA: Cross-Attention over Self-Attention for Efficient Vision-Language Fusion](https://eccv.ecva.net/virtual/2026/poster/5264)
-* [Anchored, Not Graded: How Vision-Language Models Fail at Slant-from-Texture Perception](https://eccv.ecva.net/virtual/2026/poster/4561)
-* [CVSBench: A Comprehensive Benchmark for Cross-view Spatial Reasoning and Dreaming](https://eccv.ecva.net/virtual/2026/poster/3401)
-* [E-TTS: A New Embodied Test-Time Scaling Framework for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4867)
+* [Guardrail-Agnostic Societal Bias Evaluation in Large Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3628)
 * [DICE: Disentangled Instance-Class knowlEdge prompt tuning via SAE for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5616)
 * [PercepTax: Benchmarking Cross-Property Reasoning in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3591)
 * [AdaBoosting Text Prompts for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4284)
+* [Anchored, Not Graded: How Vision-Language Models Fail at Slant-from-Texture Perception](https://eccv.ecva.net/virtual/2026/poster/4561)
+* [Foveated Reasoning: Stateful, Action-based Visual Focusing for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3608)
+* [Beyond Atomic Layouts: Compositional Design Understanding with Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4079)
+* [DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5425)
+* [On Test-Time Scaling for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4216)
+* [Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3613)
+* [CURE: Cumulative Knowledge Reuse for Efficient Device-Server Hybrid Inference in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5036)
+* [The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4513)
+* [RAU: Reference-based Anatomical Understanding with Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3449)
+* [Do Not Leave a Gap: Hallucination-Free Object Concealment in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5662)
+* [ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3165)
+* [To Adapt or Not to Adapt? Selective Adaptation for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3715)
+* [Ceptor: Vision-Language Model-Infused Diverse Guidance for Detecting Anything](https://eccv.ecva.net/virtual/2026/poster/5558)
+* [LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3592)
+* [Delineating Knowledge Boundaries for Honest Large Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5732)
+* [ATOMIC: A Domain-Specific Vision-Language Model for Transmission Electron Microscopy](https://eccv.ecva.net/virtual/2026/poster/5128)<br>:star:[code](https://github.com/SemiMIRTLab/ATOMIC)
+* [SDSA: Shallow-Deep Squeezing Adapter for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4475)
+* [Benchmarking Vision-Language Models for Microscopic Plant Image Understanding](https://eccv.ecva.net/virtual/2026/poster/4108)
+* [Towards Reliable Medical Large Vision-Language Models via Counterfactual Preference Optimization](https://eccv.ecva.net/virtual/2026/poster/4374)
+* [Same Person, Different Depiction: Counterfactual Evaluation of Vision-Language Models on Individuals with Limb Deficiencies](https://eccv.ecva.net/virtual/2026/poster/3172)
+* [Why Far Looks Up: Probing Spatial Representation in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5463)
+* [Reinforcing Vision-Language Models for Image Quality Assessment with Grounding Process Rewards](https://eccv.ecva.net/virtual/2026/poster/5542)
+* [Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3559)
+* [UltraViT: Latency-Optimized On-device Vision Encoder for Large Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4831)
+* [Same Pool, Different Answer: Stable Best-of-N Selection for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5077)
+* [CrossView: Can Vision-Language Models Reason Across Cameras?](https://eccv.ecva.net/virtual/2026/poster/5961)
+* [TecoPrompt: Temporal-Conservative Prompt Learning for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5588)
+* [How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning](https://eccv.ecva.net/virtual/2026/poster/3659)
+* [Personalize Your Large Vision-language Models With In-context Prompt Tuning](https://eccv.ecva.net/virtual/2026/poster/5580)
+* [Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4291)
+* [From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5210)
+* [Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4828)
+* [Read or Ignore? A Unified Benchmark for Typographic-Attack Robustness and Text Recognition in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4589)
+
+* [ESC: Emotional Self-Correction for Reliable Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5933)
+* [GenRecal: Generation after Recalibration from Large to Small Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4989)
+
+* [EmbedCopilot: Evaluating Vision-Language Models for Hardware-Aware Embedded System Development](https://eccv.ecva.net/virtual/2026/poster/5157)<br>:star:[code](https://github.com/X-EASys/EmbedCopilot-Bench)
+* [MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4567)
+
+
+
+
+
+* [Where to Look Matters: Learning Influential Views for VLM-based 3D Visual Grounding](https://eccv.ecva.net/virtual/2026/poster/5244)
+
+* [Hybrid Advantage Estimation with Unified Critic for VLM Agentic Reinforcement Learning](https://eccv.ecva.net/virtual/2026/poster/3403)
+* [Zoom-IQA: Image Quality Assessment with Reliable Region-Aware Reasoning](https://eccv.ecva.net/virtual/2026/poster/4206)
+* [Seeing Isn't Orienting: A Cognitively Grounded Hierarchical Benchmark for Object Orientation in MLLMs](https://eccv.ecva.net/virtual/2026/poster/5553)
+
+* [From Gaze to Meaning: An AI Agent for Unified Zero-Shot Grounding and Explanation](https://eccv.ecva.net/virtual/2026/poster/5517)
+* [Accelerating Multimodal Large Language Models with Prior-Corrected Token Reduction](https://eccv.ecva.net/virtual/2026/poster/3636)
+* [CASA: Cross-Attention over Self-Attention for Efficient Vision-Language Fusion](https://eccv.ecva.net/virtual/2026/poster/5264)
+
+* [CVSBench: A Comprehensive Benchmark for Cross-view Spatial Reasoning and Dreaming](https://eccv.ecva.net/virtual/2026/poster/3401)
+
 * [MonoSR: Open-Vocabulary Spatial Reasoning on Monocular Images](https://eccv.ecva.net/virtual/2026/poster/4275)
 * [GKDT: General Keypoint Detection Transformer](https://eccv.ecva.net/virtual/2026/poster/3679)
 * [Trustworthy Image Authentication using Forensic Knowledge Graphs](https://eccv.ecva.net/virtual/2026/poster/3521)
@@ -1520,122 +1634,112 @@
 * [Open Your Eyes: Benchmarking the Detection of Fabricated Realities and Weaponized Ethics in VLMs](https://eccv.ecva.net/virtual/2026/poster/5888)
 * [VERITAS: A Multi-agent Co-scientist for Verifiable Image-Derived Hypothesis Testing](https://eccv.ecva.net/virtual/2026/poster/5484)
 * [Concept-as-Tree: A Controllable Synthetic Data Framework Makes Stronger Personalized VLMs](https://eccv.ecva.net/virtual/2026/poster/4499)<br>:star:[code](https://github.com/zengkaiya/CaT)
-* [CulinaryCut: A Physics-aware Vision-Language-Action Benchmark for Food Cutting via Material Point Method](https://eccv.ecva.net/virtual/2026/poster/5439)
+
 * [TARS: MinMax Token-Adaptive Preference Strategy for Hallucination Reduction in MLLMs](https://eccv.ecva.net/virtual/2026/poster/4204)
 * [GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing](https://eccv.ecva.net/virtual/2026/poster/3710)
-* [Beyond Atomic Layouts: Compositional Design Understanding with Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4079)
+
 * [VLA Knows Its Limits](https://eccv.ecva.net/virtual/2026/poster/4137)
-* [Foveated Reasoning: Stateful, Action-based Visual Focusing for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3608)
+
 * [DiCoBench: Benchmarking Multi-Image Fine-Grained Perception via Differential and Commonality Visual Cues](https://eccv.ecva.net/virtual/2026/poster/4297)
 * [3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering](https://eccv.ecva.net/virtual/2026/poster/5396)
-* [On Test-Time Scaling for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4216)
-* [Teaching Vision-Language-Action Models What to See and Where to Look](https://eccv.ecva.net/virtual/2026/poster/5835)
-* [DEX-AR: A Dynamic Explainability Method for Autoregressive Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5425)
-* [Towards More Efficient Decoding for Autoregressive Vision-language-action Models](https://eccv.ecva.net/virtual/2026/poster/4634)
+
 * [V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions](https://eccv.ecva.net/virtual/2026/poster/5985)
-* [Bridging Visual Representation and Reinforcement Learning from Verifiable Rewards in Large Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3613)
-* [CURE: Cumulative Knowledge Reuse for Efficient Device-Server Hybrid Inference in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5036)
+
 * [VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models](https://eccv.ecva.net/virtual/2026/poster/3824)
 * [Two Birds, One Projection: Harmonizing Safety and Utility in LVLMs via Inference-time Feature Projection](https://eccv.ecva.net/virtual/2026/poster/4820)
 * [DIVA: Instruction-Aware Vision Token Pruning via Dual-Probe Attention Discrepancy](https://eccv.ecva.net/virtual/2026/poster/4758)
 * [URoPE: Universal Relative Position Embedding across Geometric Spaces](https://eccv.ecva.net/virtual/2026/poster/5575)
-* [The Cost of Reasoning: Chain-of-Thought Induces Overconfidence in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4513)
+
 * [PuzLM: Solving Jigsaw Puzzles with Sequence-to-Sequence Language Models](https://eccv.ecva.net/virtual/2026/poster/3768)
 * [GEM: Generative Supervision Helps Embodied Intelligence](https://eccv.ecva.net/virtual/2026/poster/3349)
 * [VisReflect: Latent Visual Reflection for Fine-Grained Perception in Long Visual Context](https://eccv.ecva.net/virtual/2026/poster/5979)
 * [HIVE: Understanding Post Hallucination Reasoning in Vision Language Models](https://eccv.ecva.net/virtual/2026/poster/4116)
-* [TDSR-VLA: Transition-aware Denoising Sequence Representations for Vision-Language-Action](https://eccv.ecva.net/virtual/2026/poster/5826)
-* [LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3592)
+
 * [TIIF-Bench: How Does Your T2I Model Follow Your Instructions?](https://eccv.ecva.net/virtual/2026/poster/3177)
 * [MMR-Bench: A Comprehensive Benchmark for Multimodal LLM Routing](https://eccv.ecva.net/virtual/2026/poster/5628)
-* [Scaling Verification Can Be More Effective than Scaling Policy Learning for Vision-Language-Action Alignment](https://eccv.ecva.net/virtual/2026/poster/5640)
-* [Benchmarking Vision-Language Models for Microscopic Plant Image Understanding](https://eccv.ecva.net/virtual/2026/poster/4108)
-* [Towards Reliable Medical Large Vision-Language Models via Counterfactual Preference Optimization](https://eccv.ecva.net/virtual/2026/poster/4374)
+
+
 * [Decompose, Compare, and Decide: Multimodal LLMs are Implicit Few-Shot Learners](https://eccv.ecva.net/virtual/2026/poster/5414)
-* [VLA-R1: Enhancing Reasoning in Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/4862)
-* [Same Person, Different Depiction: Counterfactual Evaluation of Vision-Language Models on Individuals with Limb Deficiencies](https://eccv.ecva.net/virtual/2026/poster/3172)
+
 * [ScenarioControl: Vision-language Controllable Vectorized Latent Scenario Generation](https://eccv.ecva.net/virtual/2026/poster/4905)
 * [SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models](https://eccv.ecva.net/virtual/2026/poster/3202)
-* [ATOMIC: A Domain-Specific Vision-Language Model for Transmission Electron Microscopy](https://eccv.ecva.net/virtual/2026/poster/5128)<br>:star:[code](https://github.com/SemiMIRTLab/ATOMIC)
+
 * [Show Me Examples: Inferring Visual Concepts from Image Sets](https://eccv.ecva.net/virtual/2026/poster/5416)
-* [SDSA: Shallow-Deep Squeezing Adapter for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4475)
+
 * [Do Vision Language Models Recognize Visual Ambiguity?](https://eccv.ecva.net/virtual/2026/poster/5100)
 * [StarDojo: Benchmarking Open-Ended Behaviors of Agentic Multimodal LLMs in Production–Living Simulations with Stardew Valley](https://eccv.ecva.net/virtual/2026/poster/5361)
-* [Delineating Knowledge Boundaries for Honest Large Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5732)
+
 * [Context Blindness in DPO: Mitigating Object Hallucination in MLLMs via Context-Calibrated Preference Optimization](https://eccv.ecva.net/virtual/2026/poster/5807)
 * [Gripper-aware Vision Language Action Models](https://eccv.ecva.net/virtual/2026/poster/4272)
 * [See Only When Needed: Context-Aware Attention Intervention for Hallucination-Free LVLMs](https://eccv.ecva.net/virtual/2026/poster/3907)
-* [Why Far Looks Up: Probing Spatial Representation in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5463)
+
 * [Towards Robustness against Typographic Attack with Training-free Concept Localization](https://eccv.ecva.net/virtual/2026/poster/4543)
-* [Understanding the Impact of Geometric Foundation Models on Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5064)
+
 * [PanoGrounder: Bridging 2D and 3D with Panoramic Scene Representations for VLM-based 3D Visual Grounding](https://eccv.ecva.net/virtual/2026/poster/4323)
-* [BeTTER: Diagnose the Illusion of Embodied Reasoning in Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/5364)
-* [Reinforcing Vision-Language Models for Image Quality Assessment with Grounding Process Rewards](https://eccv.ecva.net/virtual/2026/poster/5542)
+
+
+
 * [Learning to Deny: Action Denial in Multimodal Large Language Models](https://eccv.ecva.net/virtual/2026/poster/3915)
-* [Less is More: A Simple yet Effective Object-Centric Prompting Strategy for Vision-Language Reasoning in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5576)
-* [Entropy-Gradient Grounding: Training-Free Evidence Retrieval in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3559)
+
 * [AutoV: Loss-Oriented Ranking for Visual Prompt Retrieval in LVLMs](https://eccv.ecva.net/virtual/2026/poster/3550)
 * [Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision](https://eccv.ecva.net/virtual/2026/poster/4119)
 * [OpenGround: Planning-based Online Perception for Open-World 3D Visual Grounding](https://eccv.ecva.net/virtual/2026/poster/3487)
 * [Domain Generalization via Text-Anchored Information Bottleneck](https://eccv.ecva.net/virtual/2026/poster/3763)
-* [UltraViT: Latency-Optimized On-device Vision Encoder for Large Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4831)
+
 * [Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints](https://eccv.ecva.net/virtual/2026/poster/5161)
-* [Read or Ignore? A Unified Benchmark for Typographic-Attack Robustness and Text Recognition in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4589)
-* [VLA-Hijack: A Transferable Patch Attack against Vision-Language-Action Models via Visual Proprioception Hijacking](https://eccv.ecva.net/virtual/2026/poster/4145)
+
 * [Learning from Primitive: Probing Visual Reasoning of LVLMs via Counting](https://eccv.ecva.net/virtual/2026/poster/4811)
-* [From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5210)
-* [Anatomy of a Lie: A Multi-Stage Diagnostic Framework for Tracing Hallucinations in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4828)
+
 * [Gender Bias in Vision-Language In-Context Learning](https://eccv.ecva.net/virtual/2026/poster/5561)<br>:star:[code](https://github.com/mathfather/Gender-Bias-in-VL-ICL)
 * [Art Beyond Semantics: Sheaf-Informed Contrastive Learning for Multi-Relational Representations](https://eccv.ecva.net/virtual/2026/poster/5435)<br>:star:[code](https://github.com/antoniopurificato/artistic_sheaf)
 * [GEO-Detective: Unveiling Location Privacy Risks in Images with LLM Agents](https://eccv.ecva.net/virtual/2026/poster/5191)
 * [Natural Image Pretraining Improves Abstract Reasoning](https://eccv.ecva.net/virtual/2026/poster/5527)
 * [Gradient sparsity regularization for training unlearning-compatible models](https://eccv.ecva.net/virtual/2026/poster/4505)
-* [Skin-R1: Clinical Knowledge-Guided Dermatological Diagnosis Using Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4291)
+
 * [Dynamic Cluster Data Sampling for Efficient and Long-Tail-Aware Vision-Language Pre-training](https://eccv.ecva.net/virtual/2026/poster/5266)<br>:star:[code](https://github.com/MingliangLiang3/DynamiCS)
 * [Evaluating and Understanding Model Editing for Medical Vision Language Models](https://eccv.ecva.net/virtual/2026/poster/5932)
-* [Personalize Your Large Vision-language Models With In-context Prompt Tuning](https://eccv.ecva.net/virtual/2026/poster/5580)
+
 * [LEGO-Puzzles: How Good Are MLLMs at Multi-Step Spatial Reasoning?](https://eccv.ecva.net/virtual/2026/poster/5613)
-* [How Far Are Vision-Language Models from Constructing the Real World? A Benchmark for Physical Generative Reasoning](https://eccv.ecva.net/virtual/2026/poster/3659)
+
 * [HCSU: A Dataset and Benchmark for Fine-Grained Historical Calligraphy Style Understanding](https://eccv.ecva.net/virtual/2026/poster/5409)<br>:star:[code](https://github.com/209-Tongji/HCSU)
 * [Restoring Linguistic Grounding in VLA Models via Train-Free Attention Recalibration](https://eccv.ecva.net/virtual/2026/poster/5241)
-* [CrossView: Can Vision-Language Models Reason Across Cameras?](https://eccv.ecva.net/virtual/2026/poster/5961)
+
 * [C3-Bench: A Context-Aware Change Captioning Benchmark](https://eccv.ecva.net/virtual/2026/poster/3688)<br>:star:[code](https://github.com/AutoCompSysLab/C3-Bench)
-* [TecoPrompt: Temporal-Conservative Prompt Learning for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5588)
+
 * [CFM: Language-aligned Concept Foundation Model for Vision](https://eccv.ecva.net/virtual/2026/poster/4197)
 * [SPOT-E: Test-Time Entropy Shaping with Visual Spotlights for Frozen VLMs](https://eccv.ecva.net/virtual/2026/poster/3388)
-* [Same Pool, Different Answer: Stable Best-of-N Selection for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5077)
+
 * [Exploring Efficient Reasoning Segmentation with Small Language Models](https://eccv.ecva.net/virtual/2026/poster/4052)
-* [LEAP-VLA: Latent-Enhanced Action Prototyping via Continuous Residual Latent Spaces for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/3297)
+
 * [From Masks to Pixels and Meaning: A New Taxonomy, Benchmark and Metrics for VLM Image Tampering](https://eccv.ecva.net/virtual/2026/poster/4738)
 * [Neural Gate: Mitigating Privacy Risks in LVLMs via Neuron-Level Gradient Gating](https://eccv.ecva.net/virtual/2026/poster/4147)<br>:star:[code](https://github.com/Xiangkui-Cao/Neural-Gate)
-* [EmbedCopilot: Evaluating Vision-Language Models for Hardware-Aware Embedded System Development](https://eccv.ecva.net/virtual/2026/poster/5157)<br>:star:[code](https://github.com/X-EASys/EmbedCopilot-Bench)
-* [SAFE-Pruner: Semantic Attention–Guided Future-Aware Token Pruning for Efficient Vision-Language-Action Manipulation](https://eccv.ecva.net/virtual/2026/poster/5092)
+
+
+
 * [Unlocking Few-Shot Capabilities in LVLMs via Prompt Conditioning and Head Selection](https://eccv.ecva.net/virtual/2026/poster/5510)
-* [Less is More: Reducing Complexity in Vision-Language-Action Systems](https://eccv.ecva.net/virtual/2026/poster/3351)
+
 * [TruthLens: Object Hallucination Detection via Self-Evaluating Truthfulness Scores in LVLMs](https://eccv.ecva.net/virtual/2026/poster/3651)
 * [Gaze-to-text Generation: Beyond Categorical Decoding of Human Attention](https://eccv.ecva.net/virtual/2026/poster/3839)
-* [MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4567)
+
+
 * [DIGS: Differentiable, Incremental, Global, Scalable Pruning for Language Models](https://eccv.ecva.net/virtual/2026/poster/5076)
 * [VisWordBench: Bridging the Gap in Cross-modal Reasoning for Multimodal Large Language Models](https://eccv.ecva.net/virtual/2026/poster/4506)
-* [MVPruner: Dynamic Token Pruning for Accelerating Multi-view Vision-Language Models in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5547)
+
 * [Attention-based Vision-Language Memory for Spatial Reasoning](https://eccv.ecva.net/virtual/2026/poster/4166)
 * [Why Do Vision Language Models Struggle To Recognize Human Emotions?](https://eccv.ecva.net/virtual/2026/poster/5341)
 * [NaVLM-PVC: Progressive Visual Compression for Efficient Native-Resolution Encoding in MLLMs](https://eccv.ecva.net/virtual/2026/poster/4176)
-* [GenRecal: Generation after Recalibration from Large to Small Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/4989)
+
 * [ReShift: Aha-Moment-Driven Reasoning-Level Backdoor Attacks on Vision–Language Models](https://eccv.ecva.net/virtual/2026/poster/5876)
 * [WeatherReasonSeg: A Benchmark for Weather-Aware Reasoning Segmentation in Visual Language Models](https://eccv.ecva.net/virtual/2026/poster/4908)
-* [ESC: Emotional Self-Correction for Reliable Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5933)
+
 * [Are Video Reasoning Models Ready to Go Outside?](https://eccv.ecva.net/virtual/2026/poster/4365)
 * [A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning](https://eccv.ecva.net/virtual/2026/poster/3311)
-* [Ceptor: Vision-Language Model-Infused Diverse Guidance for Detecting Anything](https://eccv.ecva.net/virtual/2026/poster/5558)
+
 * [RSICCLLM: A Multimodal Large Language Model for Remote Sensing Image Change Captioning](https://eccv.ecva.net/virtual/2026/poster/3916)
 * [SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning](https://eccv.ecva.net/virtual/2026/poster/5289)
-* [Mechanistic Finetuning of Vision-Language-Action Models via Few-Shot Demonstrations](https://eccv.ecva.net/virtual/2026/poster/5828)
-* [RAU: Reference-based Anatomical Understanding with Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3449)
-* [LIBERO-Safety: A Comprehensive Benchmark for Physical and Semantic Safety in Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/4895)
-* [EvoVLA: Self-Evolving Vision-Language-Action Model](https://eccv.ecva.net/virtual/2026/poster/3353)
+
 * [VersaViT: Enhancing MLLM Vision Backbones via Task-Guided Optimization](https://eccv.ecva.net/virtual/2026/poster/3750)
-* [Do Not Leave a Gap: Hallucination-Free Object Concealment in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5662)
+
 * [DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models](https://eccv.ecva.net/virtual/2026/poster/3456)
 * [EoS-FM: Can an Ensemble of Specialist Models act as a Generalist Feature Extractor?](https://eccv.ecva.net/virtual/2026/poster/5453)
 * [ME-IQA: Memory-Enhanced Image Quality Assessment via Re-Ranking](https://eccv.ecva.net/virtual/2026/poster/4785)
@@ -1645,21 +1749,23 @@
 * [EXPLORE-Bench: Egocentric Scene Prediction with Long-Horizon Reasoning](https://eccv.ecva.net/virtual/2026/poster/5607)
 * [GAIA: A Data Flywheel System for Training GUI Test-Time Scaling Critic Models](https://eccv.ecva.net/virtual/2026/poster/5058)
 * [Molmo-Point: Better Pointing for VLMs with Grounding Tokens](https://eccv.ecva.net/virtual/2026/poster/4983)
-* [PARL-VLA: Pruning-Aware On-Policy Reinforcement Learning for Vision-Language-Action Model](https://eccv.ecva.net/virtual/2026/poster/5429)
-* [Trust Your Instincts: Confidence-Driven Test-Time RL for Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/3299)
-* [MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots](https://eccv.ecva.net/virtual/2026/poster/3969)
-* [HUGE-Bench: A Benchmark for High-Level UAV Vision-Language-Action Tasks](https://eccv.ecva.net/virtual/2026/poster/4630)
+
 * [Text-Guided 6D Object Pose Rearrangement via Closed-Loop VLM Agents](https://eccv.ecva.net/virtual/2026/poster/3785)
-* [ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3165)
+
 * [ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models](https://eccv.ecva.net/virtual/2026/poster/4434)
 * [Visual Prompt Discovery via Semantic Exploration](https://eccv.ecva.net/virtual/2026/poster/4728)
 * [TransVLM: A Vision-Language Framework and Benchmark for Detecting Any Shot Transitions](https://eccv.ecva.net/virtual/2026/poster/3199)
 * [ScAle: Attention Head Scaling as a Minimal Adapter for Spatial Reasoning in Vision–Language Models](https://eccv.ecva.net/virtual/2026/poster/4961)
-* [PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models](https://eccv.ecva.net/virtual/2026/poster/3170)
-* [To Adapt or Not to Adapt? Selective Adaptation for Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/3715)
 * [3D-Layout-R1: Structured Reasoning for Language-Instructed Spatial Editing](https://eccv.ecva.net/virtual/2026/poster/4525)
 * [VISOR++ : VISUAL INPUT BASED STEERING FOR LARGE VISION LANGUAGE MODELS](https://eccv.ecva.net/virtual/2026/poster/5990)
 * [StochasT: Learning with Stochastic Turn Depth for Visual Instruction Tuning](https://eccv.ecva.net/virtual/2026/poster/5503)
+
+
+
+
+
+
+
 
 ## Recognition, Tracking, Re-ID & Anomaly Detection(识别、跟踪、重识别与异常检测) (159)
 
@@ -2282,7 +2388,7 @@
 * [UMO: Unified In-Context Learning Unlocks Motion Foundation Model Priors](https://eccv.ecva.net/virtual/2026/poster/3418)
 
 
-## Federated, Continual & Efficient Learning; Model Security(联邦、持续与高效学习；模型安全) (136)
+## Federated, Continual & Efficient Learning; Model Security(联邦、持续与高效学习；模型安全) (135)
 
 * [RT-DETRv4: Painlessly Furthering Real-Time Object Detection with Vision Foundation Models](https://eccv.ecva.net/virtual/2026/poster/4033)
 * [Identifiable Gated Residual Personalization for Federated Parameter-Efficient Fine-Tuning](https://eccv.ecva.net/virtual/2026/poster/5020)
@@ -2333,7 +2439,8 @@
 * [Exploiting Local Flatness for Efficient Out-of-Distribution Detection](https://eccv.ecva.net/virtual/2026/poster/5630)
 * [VisNec: Measuring and Leveraging Visual Necessity for Multimodal Instruction Tuning](https://eccv.ecva.net/virtual/2026/poster/4167)
 * [Rethinking Adversary in Semantic Segmentation: An Out-of-Distribution Perspective](https://eccv.ecva.net/virtual/2026/poster/4016)
-* [Revisiting Parameter Redundancy in Vision-Language-Action Models: Insights from VLM-to-VLA Adaptation](https://eccv.ecva.net/virtual/2026/poster/4854)
+
+
 * [Probe, Anchor, and Amend: Active Test-Time Adaptation of Vision-Language Models](https://eccv.ecva.net/virtual/2026/poster/5393)
 * [Orthogonal Knowledge Refreshing for Domain-Incremental Object Detection](https://eccv.ecva.net/virtual/2026/poster/3414)
 * [S2-FracMix: Self-Saliency Fractal Mixup](https://eccv.ecva.net/virtual/2026/poster/3462)
@@ -2537,7 +2644,7 @@
 * [Pretrained Video Models as Differentiable Physics Simulators for Urban Wind Flows](https://eccv.ecva.net/virtual/2026/poster/4800)
 * [TiltDiff: Tilted Weight-Space Diffusion for Neural Network Generation](https://eccv.ecva.net/virtual/2026/poster/5942)
 
-## 3D Reconstruction, Registration and Scene Modeling(三维重建、配准与场景建模) (97)
+## 3D Reconstruction, Registration and Scene Modeling(三维重建、配准与场景建模) (96)
 
 * [FDR-Occ: Factorized Dense Routing for Full-Spectrum 3D Occupancy Prediction](https://eccv.ecva.net/virtual/2026/poster/3765)
 * [Revisiting Scene Graph Generation from the Perspective of Detector-Conditioned Reachability](https://eccv.ecva.net/virtual/2026/poster/4956)
@@ -2569,7 +2676,7 @@
 * [Mind2Cloud: EEG-to-Point Cloud Generation with Two-Granularity Diffusion Decoding](https://eccv.ecva.net/virtual/2026/poster/5955)
 * [OneWorld: Taming Scene Generation with 3D Unified Representation Autoencoder](https://eccv.ecva.net/virtual/2026/poster/3181)
 * [Pano3D: Unified 3D Reconstruction and Panoptic Segmentation](https://eccv.ecva.net/virtual/2026/poster/4920)
-* [TabletopGen: Tabletop Scene Generation and Interactive Simulation for Robotic Manipulation](https://eccv.ecva.net/virtual/2026/poster/4437)
+
 * [Ex-Sim(3)-Reg: 2D-3D Correspondence Pruning via Extended Sim(3) Registration](https://eccv.ecva.net/virtual/2026/poster/4129)<br>:star:[code](https://github.com/anpei96/ex-sim3-demo)
 * [SAF3R: Dynamic Sparse Attention for Feed-Forward 3D Reconstruction Transformers](https://eccv.ecva.net/virtual/2026/poster/4083)<br>:star:[code](https://github.com/jndeng/SAF3R)
 * [G2P: Gaussian-to-Point Attribute Alignment for Boundary-Aware 3D Segmentation](https://eccv.ecva.net/virtual/2026/poster/5646)
@@ -2636,3 +2743,366 @@
 * [Phase-Aligned RoPE for Mixed-Resolution Diffusion Transformer](https://eccv.ecva.net/virtual/2026/poster/4089)
 * [GeoMix: Descriptor-Free Visual Localization via Global Context and Multi-Detector Training](https://eccv.ecva.net/virtual/2026/poster/4739)
 * [Horizon3D: Sparse Radar-Camera Fusion for Long-Range 3D Perception in Autonomous Driving](https://eccv.ecva.net/virtual/2026/poster/5928)
+
+
+
+
+## Robustness, Privacy, Learning & Theory (86)
+
+* [Multi-Anchor Distillation with Text-Guided Analytic Classifier for Continual Learning](https://eccv.ecva.net/virtual/2026/poster/3200)
+* [iSyncTab: Learning Cross-Modal Feature Sequencing for Image-Tabular Data via Neural Synchrony](https://eccv.ecva.net/virtual/2026/poster/5442)
+* [DiffUE: Enhancing Utility-Unlearnability Trade-off of Unlearnable Examples via Diffusion Autoencoders](https://eccv.ecva.net/virtual/2026/poster/5633)
+* [Closing the Capacity–Convergence Gap: Globally Optimal Configuration of Implicit Neural Representations](https://eccv.ecva.net/virtual/2026/poster/4964)
+* [Prior-Conditioned Gaussian Discriminants for Generalizable AI-generated Image Detection](https://eccv.ecva.net/virtual/2026/poster/5771)
+* [Intrinsically Stable Spiking Neural Networks: Overcoming the Performance Barrier in the Absence of Batch Normalization](https://eccv.ecva.net/virtual/2026/poster/4371)<br>:star:[code](https://github.com/Ruichen0424/IS-SNN)
+* [SPICE: Simple Polysemantic feature Interpretation via Clustering-based Explanations](https://eccv.ecva.net/virtual/2026/poster/5239)<br>:star:[code](https://github.com/sehyun-lee288/spice-eccv26-icml26-mech-interp)
+* [BackTranslation2.0 - A Linguistically Motivated Metric to Assess Sign Language Production](https://eccv.ecva.net/virtual/2026/poster/4935)
+* [Denoised Variance-Based Pruning with Optimal Brain Bias Compensation](https://eccv.ecva.net/virtual/2026/poster/3650)
+* [SWAN: World-Aware Adaptive Multimodal Networks for Runtime Variations](https://eccv.ecva.net/virtual/2026/poster/4587)
+* [Generating Multi-view Adversarial Examples for Visual Geometry Grounded Transformer](https://eccv.ecva.net/virtual/2026/poster/4361)
+* [Weight-Space Mixture-of-Experts for Implicit Neural Representation Classification](https://eccv.ecva.net/virtual/2026/poster/4420)
+* [Data Circuit Breaker: Identifying Training, Test, and Generated Data in Image Generative Models](https://eccv.ecva.net/virtual/2026/poster/3593)
+* [Breaking High Confidence: Practical Face Impersonation under High-Security Thresholds](https://eccv.ecva.net/virtual/2026/poster/5875)
+* [Causal Intervention in Concept Bottleneck Models](https://eccv.ecva.net/virtual/2026/poster/5376)
+* [Fast and Flexible Robustness Certificates for Semantic Segmentation](https://eccv.ecva.net/virtual/2026/poster/4498)
+* [UC-VLM: Consistency-Driven Learning for AI-Generated Image Detection with Vision-Language Large Models](https://eccv.ecva.net/virtual/2026/poster/5204)
+* [REDistill: Robust Estimator Distillation for Balancing Robustness and Efficiency](https://eccv.ecva.net/virtual/2026/poster/3941)
+* [Spectral-Aware Analytic Class-Incremental Learning for Long-Tailed Distributions](https://eccv.ecva.net/virtual/2026/poster/4012)
+* [Don’t Teach Instability, Teach Robustness: Selective Sensitivity Gating for Adversarial Robust Distillation](https://eccv.ecva.net/virtual/2026/poster/3233)
+* [BrainRiem: Riemannian Prototype Learning for Source-Free Cross-Site Brain Network Diagnosis](https://eccv.ecva.net/virtual/2026/poster/5246)
+* [Fully Rotation-Equivariant Spectral-Spatial Learning for Multispectral Object Detection](https://eccv.ecva.net/virtual/2026/poster/3207)
+* [ORBIT: Overcoming Hallucination Risks via Bi-manifold Interaction and Traction](https://eccv.ecva.net/virtual/2026/poster/4765)
+* [Leveraging Dark Knowledge for Intrinsic Multimodal Out-of-Distribution Detection](https://eccv.ecva.net/virtual/2026/poster/4990)
+* [Adaptive Neural Dynamics for Robust Geometric LiDAR-Inertial State Estimation on UAVs](https://eccv.ecva.net/virtual/2026/poster/3654)
+* [Different Changes Require Different Reasoning: Change-Type-Specialized Experts for Robust Change Captioning](https://eccv.ecva.net/virtual/2026/poster/3949)
+* [Geometric Gradient Rectification for Safe Open-Set Semi-Supervised Learning](https://eccv.ecva.net/virtual/2026/poster/3557)
+* [Implicit Neural Representation Facilitates Unified Universal Vision Encoding](https://eccv.ecva.net/virtual/2026/poster/5055)
+* [REVEAL: Reasoning-Enhanced Forensic Evidence Analysis for Explainable AI-Generated Image Detection](https://eccv.ecva.net/virtual/2026/poster/5044)<br>:star:[code](https://github.com/TrustMedia-zju/REVEAL)
+* [Simple Filtering Improves Masked Autoencoders](https://eccv.ecva.net/virtual/2026/poster/5930)
+* [Topology-Weighted Effective Rank: A Zero-Cost Proxy for Training Dynamics Stability in Neural Architecture Search](https://eccv.ecva.net/virtual/2026/poster/3390)<br>:star:[code](https://github.com/Thiswycf/TER-Score)
+* [Scaling Laws for Black-box Adversarial Attacks](https://eccv.ecva.net/virtual/2026/poster/3565)
+* [R-ESC: Robustly Erasing Space Concepts via Stochastic Feature Remapping](https://eccv.ecva.net/virtual/2026/poster/4410)
+* [FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations](https://eccv.ecva.net/virtual/2026/poster/5785)
+* [Defending from GeoLocalization through Adversarial Road Trips](https://eccv.ecva.net/virtual/2026/poster/4426)
+* [Compact and Structurally Transparent Cervical Cytology with Geometry-Driven Features and Closed-Form Attention](https://eccv.ecva.net/virtual/2026/poster/3896)
+* [Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations](https://eccv.ecva.net/virtual/2026/poster/5939)
+* [Structured-Noise Masked Modeling for Video, Audio and Beyond](https://eccv.ecva.net/virtual/2026/poster/3560)
+* [Bridging Theory and Practice in Source-Free Domain Adaptation via Adversarial Proxy Perturbation](https://eccv.ecva.net/virtual/2026/poster/5270)
+* [Puppet-CNN: Continuous Parameter Dynamics for Input-Adaptive Convolutional Networks](https://eccv.ecva.net/virtual/2026/poster/5446)
+* [Frequency Director: Learnable Mixture of Frequency Experts for Unified Concealed Scene Segmentation](https://eccv.ecva.net/virtual/2026/poster/4302)
+* [OrthoEraser: Coupled-Neuron Orthogonal Projection for Concept Erasure](https://eccv.ecva.net/virtual/2026/poster/3150)
+* [SpaR3D-MoE: Adaptive 3D Spatial Reasoning from Sparse Views Meets Geometry-Inductive Mixture-of-Experts](https://eccv.ecva.net/virtual/2026/poster/5271)
+* [LoRC: Detecting AI-Generated Images via Low-Rank Collapse in the Semantic-Residual Space](https://eccv.ecva.net/virtual/2026/poster/5654)
+* [Rethinking Temporal Modeling in Visual Object Tracking via Decoupled Auxiliary Supervision](https://eccv.ecva.net/virtual/2026/poster/4704)<br>:star:[code](https://github.com/ZhangDailing8/DASTrack)
+* [IConE: Batch Independent Collapse Prevention for Self-Supervised Representation Learning](https://eccv.ecva.net/virtual/2026/poster/4428)
+* [Learn to Rank: Visual Attribution by Learning Importance Ranking](https://eccv.ecva.net/virtual/2026/poster/3507)<br>:star:[code](https://github.com/dschinagl/AHA)
+* [Geometry-Anchored Transport Framework for Exemplar-Free Class-Incremental Learning](https://eccv.ecva.net/virtual/2026/poster/4569)
+* [Beyond Filter Pruning: Top-K Spatial Selection for Efficient Neural Networks](https://eccv.ecva.net/virtual/2026/poster/4622)
+* [Escaping the Low-Frequency Bias: Adversarial Frequency Perturbation for Generalisable Gaze Estimation](https://eccv.ecva.net/virtual/2026/poster/3195)
+* [ProtoMappingNet: Interpretable Hierarchical Prototypes through Relational Prototype Mappings](https://eccv.ecva.net/virtual/2026/poster/4345)<br>:star:[code](https://github.com/pk9403/ProtoMappingNet)
+* [Improving Adversarial Robustness by Mitigating Instability through Relearning](https://eccv.ecva.net/virtual/2026/poster/5743)
+* [On the Plasticity Collapse in Continual Machine Unlearning](https://eccv.ecva.net/virtual/2026/poster/4534)
+* [Mapping the Concept Landscape: Structural Perception of Global Distributions for Transparent Data Pruning](https://eccv.ecva.net/virtual/2026/poster/5355)
+* [Noise-Robust Face Recognition via Non-target Similarity Distribution Guided Sample Selection](https://eccv.ecva.net/virtual/2026/poster/5198)<br>:star:[code](https://eccv.ecva.net/Conferences/2026/github.com/wfl95/DDLN)
+* [On the Reliability of Cue Conflict and Beyond](https://eccv.ecva.net/virtual/2026/poster/5605)
+* [Adversarial Attack and Disturbance Detection by Hadamard-Coded Output Representations for Object Detection and Semantic Segmentation](https://eccv.ecva.net/virtual/2026/poster/5869)
+* [One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models](https://eccv.ecva.net/virtual/2026/poster/3153)
+* [Enhancing Pretrained Model-based Continual Representation Learning via Guided Random Projection](https://eccv.ecva.net/virtual/2026/poster/4914)
+* [This Looks Distinctly Like That: Grounding Interpretable Recognition in Stiefel Geometry against Neural Collapse](https://eccv.ecva.net/virtual/2026/poster/3477)
+* [Is Monitoring Enough? Strategic Agent Selection For Stealthy Attack in Multi-Agent Discussions](https://eccv.ecva.net/virtual/2026/poster/4950)
+* [GeoDetect: Geometric Adversarial Detection for VLPs](https://eccv.ecva.net/virtual/2026/poster/3531)
+* [Learning Probabilistic Prompt for Continual Learning](https://eccv.ecva.net/virtual/2026/poster/4309)
+* [Calibrated Harmonic Overlaid Implicit Neural Representations for Multi-Dimensional Data](https://eccv.ecva.net/virtual/2026/poster/4834)
+* [Beyond Artifacts: Real-Centric Envelope Modeling for Reliable AI-Generated Image Detection](https://eccv.ecva.net/virtual/2026/poster/3942)
+* [Are GUI Agents Focused Enough? Automated Distraction via Semantic-level UI Element Injection](https://eccv.ecva.net/virtual/2026/poster/3983)
+* [Proteus: Model Leakage-Induced Adversarial Attack in Federated Learning](https://eccv.ecva.net/virtual/2026/poster/4662)
+* [AracNet: Revealing Debiasing Signals across Layers with Shallow Monitors](https://eccv.ecva.net/virtual/2026/poster/4940)<br>:star:[code](https://eccv.ecva.net/Conferences/2026/github.com/Malga-Vision/AracNet)
+* [Spectral Gradient Orthogonalization Improves Differentially Private Training at Scale](https://eccv.ecva.net/virtual/2026/poster/4651)
+* [D-VLAM: Differential Vision and Language Mixing for Rehearsal Free Continual Learning](https://eccv.ecva.net/virtual/2026/poster/5836)<br>:star:[code](https://github.com/anwarmaxsum/D-VLAM)
+* [Explainability-aware Frustum Attack: Exposing Structural Vulnerabilities in LiDAR-Based 3D Object Detectors](https://eccv.ecva.net/virtual/2026/poster/5021)
+* [Weight Feedback Computes the Exact Jacobian Transpose in Modern Deep Networks](https://eccv.ecva.net/virtual/2026/poster/4545)
+* [A Classifier-Agnostic Zero-Shot Adversarial Attack Detection via CLIP](https://eccv.ecva.net/virtual/2026/poster/4853)
+* [Learning from Adversity: Semantic-Aware Mask Refinement through Adversarial Perturbation](https://eccv.ecva.net/virtual/2026/poster/3154)
+* [TR-MoE: Temporal Reliability-Aware Mixture-of-Experts for Robust Tracking](https://eccv.ecva.net/virtual/2026/poster/4745)
+* [RoME: Robust Mixture of Low-Rank Experts against Multiple Adversarial Perturbations](https://eccv.ecva.net/virtual/2026/poster/5012)
+* [Spectral Gating via Damped Oscillations for Adaptive Implicit Neural Representations](https://eccv.ecva.net/virtual/2026/poster/4373)
+* [Robustness Meets Uncertainty: Evidential Adversarial Training for Robust Selective Classification](https://eccv.ecva.net/virtual/2026/poster/5235)
+* [Learning with Bilevel-Minimax Optimization for Efficient and Reliable Transfer Attacks](https://eccv.ecva.net/virtual/2026/poster/5683)
+* [Look But Don't Touch with Sparse Autoencoders for Unlearning in Diffusion Models](https://eccv.ecva.net/virtual/2026/poster/4088)
+* [Exposing Implicit Vulnerabilities in Text-to-Image Models via Adversarial Agentic Probing](https://eccv.ecva.net/virtual/2026/poster/4945)
+* [When Higher Order Hurts: Pre-Asymptotic Order Collapse in Generative ODE Sampling — A Theory of Discretization–Learning Interaction](https://eccv.ecva.net/virtual/2026/poster/5631)
+* [Ada-VNNs: Adaptive Equivariance for Vector Neural Networks](https://eccv.ecva.net/virtual/2026/poster/4500)
+* [Robustness Emerges Early in Training Dynamics, but Is Not Preserved](https://eccv.ecva.net/virtual/2026/poster/5025)
+* [Deep Noise Label Learning via Effective Rank Reduction](https://eccv.ecva.net/virtual/2026/poster/5804)
+* [VICAL: Vicinal Consistency Alignment for Long-Tailed Visual Recognition](https://eccv.ecva.net/virtual/2026/poster/5153)
+
+## Vision Foundation Models: Interpretability and Reasoning (85)
+
+* [Auto-Prompting: Layer-Specific Prompt Fusion Discovery via Differentiable Search](https://eccv.ecva.net/virtual/2026/poster/4112)
+* [Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs](https://eccv.ecva.net/virtual/2026/poster/3807)
+* [TaskTok: Delving into Task Tokens for Task-driven Image Restoration](https://eccv.ecva.net/virtual/2026/poster/3148)<br>:star:[code](https://github.com/jimmy9704/tasktok)
+* [Understanding Geometric Representations in Self-Supervised Vision Transformers via Subspace Intervention](https://eccv.ecva.net/virtual/2026/poster/4702)
+* [Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers](https://eccv.ecva.net/virtual/2026/poster/5516)
+* [Efficient Quantization-Aware Adaptation for Visual Foundation Models](https://eccv.ecva.net/virtual/2026/poster/3766)
+* [DriftScope: Measuring The Hidden Effects of Diffusion Model Fine-Tuning](https://eccv.ecva.net/virtual/2026/poster/3510)
+* [Moving Beyond More Views: Redundancy-Aware Ego–Exo Fusion for Proficiency Estimation](https://eccv.ecva.net/virtual/2026/poster/4893)
+* [HyFL-CLIP: Hyperbolic Fine-Tuning of CLIP for Robust Long-Context Understanding](https://eccv.ecva.net/virtual/2026/poster/5643)
+* [LoCA: Spatially-Aware Low-Rank Convolutional Adaptation of Vision Foundation Models](https://eccv.ecva.net/virtual/2026/poster/5809)
+* [Metric-Bench: Exploring In-context Spatial Metric Reasoning in VLMs for Indoor Scenes](https://eccv.ecva.net/virtual/2026/poster/4398)
+* [CS-TTA: Preserving Concept Sensitivity in Test-Time Adaptation](https://eccv.ecva.net/virtual/2026/poster/3699)
+* [ICLAgent: Integrated Circuit Footprint Geometry Labeling via LMM-empowered Multi-Agent Framework](https://eccv.ecva.net/virtual/2026/poster/5260)<br>:star:[code](https://github.com/IC-LMM/ICLAgent)
+* [Hyperbolic Hierarchical Clustering for Visual Representation Learning](https://eccv.ecva.net/virtual/2026/poster/3152)
+* [UrbanAlign: Post-hoc Semantic Calibration for VLM-Human Preference Alignment](https://eccv.ecva.net/virtual/2026/poster/4316)
+* [On Locality and Length-Generalization in Visual Reasoning](https://eccv.ecva.net/virtual/2026/poster/5922)
+* [Rethink Backdoor Robustness in Vision Transformers](https://eccv.ecva.net/virtual/2026/poster/3605)
+* [Background Blurring Matters: Improving Visual Grounding by Merging Text-Irrelevant Tokens](https://eccv.ecva.net/virtual/2026/poster/5081)
+* [From Drop-off to Recovery: A Mechanistic Analysis of Segmentation in MLLMs](https://eccv.ecva.net/virtual/2026/poster/4609)
+* [SRRA: Stable-Rank-Based Residual Adaptation for Generalizable Deepfake Detection](https://eccv.ecva.net/virtual/2026/poster/5186)
+* [MultihopSpatial: Multi-hop Compositional Spatial Reasoning Benchmark for Vision-Language Model](https://eccv.ecva.net/virtual/2026/poster/5663)
+* [Contrastive-Guided Self-Supervised Latent Visual Reasoning for Hallucination Mitigation](https://eccv.ecva.net/virtual/2026/poster/5118)
+* [Structured Hyperedge Adaptation for Parameter-Efficient Fine-Tuning of Vision Transformers](https://eccv.ecva.net/virtual/2026/poster/5700)
+* [SafeSAE-VLA: Interpreting OpenVLA Progress Dynamics with Sparse Feature Analysis](https://eccv.ecva.net/virtual/2026/poster/5740)
+* [DeCoPatch: Revealing Causal Latent Subspaces in Vision-Language Models for GUI Grounding](https://eccv.ecva.net/virtual/2026/poster/4189)
+* [BrepLLM: Enabling Large Language Models to Understand Boundary Representations](https://eccv.ecva.net/virtual/2026/poster/5778)
+* [Inductive Visual Logic for Few-Shot Out-Of-Distribution Adaptation in VLMs](https://eccv.ecva.net/virtual/2026/poster/3863)
+* [Diffusion-Based Immersive Visual Reasoning](https://eccv.ecva.net/virtual/2026/poster/3526)
+* [When Token Compression Breaks: Structural Pruning vs. Token Reduction for Robust ViT Segmentation under High Compression](https://eccv.ecva.net/virtual/2026/poster/5746)
+* [Tesselating The Earth](https://eccv.ecva.net/virtual/2026/poster/5452)
+* [VIVAS: Vitalizing Visual Perception in VLM Pre-training via Vision-language Unified Autoregressive Supervision](https://eccv.ecva.net/virtual/2026/poster/4767)
+* [What CLIP Knows but Cannot Say: Recovering Negation from Frozen Intermediate Features](https://eccv.ecva.net/virtual/2026/poster/5430)
+* [Task Alignment: A simple and effective proxy for model merging in computer vision](https://eccv.ecva.net/virtual/2026/poster/3489)
+* [Attention is Case-Sensitive](https://eccv.ecva.net/virtual/2026/poster/3409)
+* [Human-like Object Grouping in Self-supervised Vision Transformers](https://eccv.ecva.net/virtual/2026/poster/5507)<br>:star:[code](https://github.com/Hosseinadeli/human_like_grouping_Transformers)
+* [3D-Aware VLMs with Implicit and Explicit Geometries](https://eccv.ecva.net/virtual/2026/poster/3224)
+* [Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models](https://eccv.ecva.net/virtual/2026/poster/3515)
+* [ORFC: Orthogonal Reparameterization for Low-Bitrate ViT Feature Coding](https://eccv.ecva.net/virtual/2026/poster/5830)<br>:star:[code](https://github.com/zhangletian2/ORFC)
+* [Invisible Shortcuts: Why Vision Encoders Know Your Camera](https://eccv.ecva.net/virtual/2026/poster/4431)<br>:star:[code](https://github.com/ryan-caesar-ramos/visual-encoder-traces)
+* [Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens](https://eccv.ecva.net/virtual/2026/poster/4447)
+* [CLIMP: Contrastive Language-Image Mamba Pretraining](https://eccv.ecva.net/virtual/2026/poster/5469)
+* [Vision-TTT: Efficient and Expressive Visual Representation Learning with Test-Time Training](https://eccv.ecva.net/virtual/2026/poster/5177)
+* [CL4D: Contrastive Language–4D Pretraining for Vision-Language Reasoning in Dynamic Scenes](https://eccv.ecva.net/virtual/2026/poster/4532)
+* [Frozen CLIP Priors for Robust Self-Supervised Poisson Inverse Problems](https://eccv.ecva.net/virtual/2026/poster/5010)
+* [Test-Time Registers as Global Priors for Tokenized Image Generation](https://eccv.ecva.net/virtual/2026/poster/5167)
+* [Make Geometry Matter for Spatial Reasoning](https://eccv.ecva.net/virtual/2026/poster/3231)
+* [Unsupervised Semantic Segmentation Facilitates Model Understanding](https://eccv.ecva.net/virtual/2026/poster/3397)
+* [MuSViT: A Foundation Vision Model for Sheet Music Representation](https://eccv.ecva.net/virtual/2026/poster/4829)
+* [Practice Makes Perfect: From Explicit Decomposition to Reinforced Latent Planning in Text-to-Human Motion](https://eccv.ecva.net/virtual/2026/poster/5797)
+* [BLOB-Q: Boosting Low Bit ViT Quantization via Global Optimization on Model Distortion](https://eccv.ecva.net/virtual/2026/poster/5591)
+* [Steerable Vision Transformers](https://eccv.ecva.net/virtual/2026/poster/5945)
+* [DnA: Denoising Attention for Visual Tasks](https://eccv.ecva.net/virtual/2026/poster/3828)
+* [Before Thinking, Learn to Decide: Proactive Routing for Efficient Visual Reasoning](https://eccv.ecva.net/virtual/2026/poster/4647)
+* [MIRROR: Aligning Semantic Relations from Language to Image via Gromov--Wasserstein](https://eccv.ecva.net/virtual/2026/poster/4670)
+* [Multi-Head Normalization for Wide Vision Transformers](https://eccv.ecva.net/virtual/2026/poster/4268)
+* [From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion](https://eccv.ecva.net/virtual/2026/poster/5248)
+* [ReasonCLIP-58M: Visually Grounded Commonsense Reasoning Supervision for CLIP](https://eccv.ecva.net/virtual/2026/poster/3291)<br>:star:[code](https://github.com/RISys-Lab/ReasonCLIP)
+* [Activation Quantization of Vision Encoders Needs Prefixing Registers](https://eccv.ecva.net/virtual/2026/poster/5152)
+* [Reasoning Path and Latent State Analysis for Multi-view Visual Spatial Reasoning: A Cognitive Science Perspective](https://eccv.ecva.net/virtual/2026/poster/4563)
+* [AFFMAE: Scalable Vision Pre-Training for High-Resolution Microscopy Segmentation on Desktop Hardware](https://eccv.ecva.net/virtual/2026/poster/5712)
+* [Let ViT Speak: Generative Language-Image Pre-training](https://eccv.ecva.net/virtual/2026/poster/3902)
+* [SyncVL: Synchronizing Vision ⟷ Language Using Unsupervised Adaptation](https://eccv.ecva.net/virtual/2026/poster/5126)
+* [SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning](https://eccv.ecva.net/virtual/2026/poster/4502)
+* [VQT: Vector Quantization Tuning for Efficient Fine-tuning and Compression of Pre-trained Vision Transformers](https://eccv.ecva.net/virtual/2026/poster/3318)
+* [Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning](https://eccv.ecva.net/virtual/2026/poster/5359)
+* [Rethinking Attention Reallocation for Multimodal Emotion Recognition](https://eccv.ecva.net/virtual/2026/poster/4402)
+* [World Knowledge in the Weights: Reading Concept Circuits of Vision Transformers](https://eccv.ecva.net/virtual/2026/poster/4949)
+* [ARGENT: Adaptive Hierarchical Image-Text Representations](https://eccv.ecva.net/virtual/2026/poster/5595)
+* [Enlightening Photographic Style Transfer with a Self-Supervised Photographic Embedding](https://eccv.ecva.net/virtual/2026/poster/3866)
+* [Probing the 3D Object-Level Understanding of Pre-Trained Detection Transformers](https://eccv.ecva.net/virtual/2026/poster/5986)
+* [Quick ViTs: Speeding up Vision Transformers through Equivariance](https://eccv.ecva.net/virtual/2026/poster/4032)
+* [Plug-and-Play Attention Linearization for Pretrained Transformers](https://eccv.ecva.net/virtual/2026/poster/4971)
+* [Disentangling Hallucinations: Orthogonal Semantic Projection for Robust Interpretability](https://eccv.ecva.net/virtual/2026/poster/5456)
+* [Why Can Accurate Models Be Learned from Inaccurate Annotations?](https://eccv.ecva.net/virtual/2026/poster/4660)
+* [MMDiff: Extending Diffusion Transformers for Multi-Modal Generation](https://eccv.ecva.net/virtual/2026/poster/4977)
+* [Dynamic Image Prompt Adapter for Scalable Zero-shot Personalized Text-to-Image Generation](https://eccv.ecva.net/virtual/2026/poster/4423)
+* [ECC: Encoder-Centric Corruption for Fine-Grained Vision in VLMs](https://eccv.ecva.net/virtual/2026/poster/5759)
+* [Kilometer-Vision: A New Frontier for Large-Scale Spatial Awareness in VLMs](https://eccv.ecva.net/virtual/2026/poster/5940)
+* [Mechanistic interventions for explainable digital pathology uncovers adversarial vulnerabilities](https://eccv.ecva.net/virtual/2026/poster/5311)
+* [Verifying Cancer Segmentation in Vision Transformers via Internal Concepts](https://eccv.ecva.net/virtual/2026/poster/3897)
+* [Circuit-MLLM: Topological Logic-Guided Latent-Space Visual Reasoning for Circuit Schematic Understanding](https://eccv.ecva.net/virtual/2026/poster/4463)
+* [What VGGT Knows About Overlap: Probing Geometric Foundation Models for Co-Visibility](https://eccv.ecva.net/virtual/2026/poster/5911)
+* [Last-Layer-Centric Feature Recombination: Unleashing 3D Geometric Knowledge in DINOv3 for Monocular Depth Estimation](https://eccv.ecva.net/virtual/2026/poster/4725)
+* [Blind to Position, Biased in Language: Probing Mid-Layer Representational Bias in Vision-Language Encoders for Zero-Shot Language-Grounded Spatial Understanding](https://eccv.ecva.net/virtual/2026/poster/3141)
+* [Leveraging Cross-Modal Knowledge Transfer for Knowledge-Aware Concept Customization](https://eccv.ecva.net/virtual/2026/poster/3362)
+
+## Computational Imaging, Shape Recovery and Camera Geometry (83)
+
+* [Don’t Mask Out the Background! Natural-Light Photometric Stereo via Illumination Reconstruction](https://eccv.ecva.net/virtual/2026/poster/5632)
+* [SynLF: Zero-Shot Metric Depth from Light Field Cameras via Physics-Grounded Synthesis](https://eccv.ecva.net/virtual/2026/poster/4459)
+* [Consistent Monocular Depth Estimation with Contact Region Boundary-Aware Refinement](https://eccv.ecva.net/virtual/2026/poster/4672)
+* [Pixel-wise Planarity for High-Precision Monocular Plane Segmentation](https://eccv.ecva.net/virtual/2026/poster/5701)
+* [Cross-View Yaw Estimation in Location Uncertainty with Line-Aligning Yaw Scoring](https://eccv.ecva.net/virtual/2026/poster/4552)
+* [Dotting the Eye: An Intent-Driven Image Retouching Agent for Visual Focus Enhancement](https://eccv.ecva.net/virtual/2026/poster/4878)
+* [Depth-guided Multi-view Exposure Bracketing for HDR Robot Vision](https://eccv.ecva.net/virtual/2026/poster/5101)
+* [The Devil Is in the Dark Pixels: Toward Brightness Bias-Robust Denoising](https://eccv.ecva.net/virtual/2026/poster/5112)<br>:star:[code](https://github.com/xmed-lab/BBRD)
+* [TPCNet: A Low-Light Image Enhancement Network Inspired by Triple Physical Constraints](https://eccv.ecva.net/virtual/2026/poster/4351)<br>:star:[code](https://github.com/2020shijingyi/TPCNet)
+* [PRISM-VO: Scale-Aware Visual Odometry Using Photometric Plenoptic Bundle Adjustment](https://eccv.ecva.net/virtual/2026/poster/3250)
+* [Parallax Portrait Matting](https://eccv.ecva.net/virtual/2026/poster/4407)
+* [Semantic Line Diffusion: Character-Consistent Line Art from text-annotated Storyboards](https://eccv.ecva.net/virtual/2026/poster/5444)
+* [FlashBEV: Fast and Memory-Efficient Exact BEV Transformation with IO-Awareness](https://eccv.ecva.net/virtual/2026/poster/5030)
+* [FUSE: Filter-Free Unified Spatiotemporal Estimation of SpO2 via Wave-Transport Modeling](https://eccv.ecva.net/virtual/2026/poster/5379)
+* [WildDepth: A Multimodal Dataset for 3D Wildlife Perception and Depth Estimation](https://eccv.ecva.net/virtual/2026/poster/5827)
+* [Leveraging Phase Information to Boost Unrolled Network Learning for Image Deblurring](https://eccv.ecva.net/virtual/2026/poster/4575)
+* [A second-order theory of texture for depth from focus](https://eccv.ecva.net/virtual/2026/poster/3452)
+* [Video Generative Models as Geometry Learner](https://eccv.ecva.net/virtual/2026/poster/4384)
+* [OneHSI: A Unified Hyperspectral Foundation Model with Physical Consistency](https://eccv.ecva.net/virtual/2026/poster/4477)
+* [mmIR: Frequency-Space Inverse Rendering for 3D Millimeter-Wave Radar ADC Synthesis](https://eccv.ecva.net/virtual/2026/poster/5636)
+* [OmniPoint: Universal Monocular Metric Pointcloud from Any Camera](https://eccv.ecva.net/virtual/2026/poster/5560)
+* [Cast and Attached Shadow Detection via Iterative Light and Geometry Reasoning](https://eccv.ecva.net/virtual/2026/poster/5072)
+* [Partial Skeleton Visibility for Action Recognition: A Constrained Field-of-View Approach](https://eccv.ecva.net/virtual/2026/poster/5914)
+* [Stable and Scalable Bundle Adjustment of Holistic 3D Structures](https://eccv.ecva.net/virtual/2026/poster/4860)
+* [PixVOD: Pixel-Distributed Direct Visual Odometry and Depth Estimation](https://eccv.ecva.net/virtual/2026/poster/5906)
+* [From Perspective to Fisheye Depth Estimation and Open-Vocabulary Segmentation](https://eccv.ecva.net/virtual/2026/poster/4568)
+* [A Mechanism-Driven Theory of Phase Transitions in Active Learning](https://eccv.ecva.net/virtual/2026/poster/4856)<br>:star:[code](https://github.com/juliamachnio/PALM)
+* [ResilPhase: Plug-and-Play Phase Mapping and Noise-Resilient Macro-Trajectory Extrapolation for Diffusion Acceleration](https://eccv.ecva.net/virtual/2026/poster/4157)
+* [Under One Sun: Multi-Object Generative Perception of Materials and Illumination](https://eccv.ecva.net/virtual/2026/poster/4343)
+* [Stabilizing Deep Reconstruction Operators with Contractive Anchoring](https://eccv.ecva.net/virtual/2026/poster/3416)<br>:star:[code](https://github.com/trishitmg/costa)
+* [λSplit: Self-Supervised Content-Aware Spectral Unmixing for Fluorescence Microscopy](https://eccv.ecva.net/virtual/2026/poster/4844)
+* [Generalized Biomedicine Discovery](https://eccv.ecva.net/virtual/2026/poster/4610)
+* [Bridge-UniPS: Bridging Calibrated Photometric Stereo toward Universal Photometric Stereo](https://eccv.ecva.net/virtual/2026/poster/3325)
+* [From Phase to Phenomenon: Self-Supervised Learning of Subsurface Scattering with Minimal Phase-shift Inputs](https://eccv.ecva.net/virtual/2026/poster/3547)
+* [Sticking Information in Plain Sight: Encoding and Detecting Hidden Stickers in the Real World](https://eccv.ecva.net/virtual/2026/poster/4984)
+* [Denoising the Deep Sky: Physics-Based CCD Noise Formation for Astronomical Imaging](https://eccv.ecva.net/virtual/2026/poster/3316)
+* [Compact Low-Cost Hyperspectral Imaging via Angular-to-Spectral Diversity Conversion](https://eccv.ecva.net/virtual/2026/poster/3677)
+* [CrossFeat: Bridging Imaging Modalities in Feature Descriptor Space](https://eccv.ecva.net/virtual/2026/poster/5937)
+* [Boosting 6D Object Pose Estimation via Monocular Depth Cues](https://eccv.ecva.net/virtual/2026/poster/5757)
+* [SiPhy: Single-Image Physical Property Reasoning](https://eccv.ecva.net/virtual/2026/poster/4863)
+* [Filterless Snapshot Hyperspectral Imaging using Guided Patch Diffusion](https://eccv.ecva.net/virtual/2026/poster/3834)
+* [High-speed Imaging through Turbulence with Event-based Light Fields](https://eccv.ecva.net/virtual/2026/poster/3748)
+* [Estimating Individual Tree Height and Species from UAV Imagery](https://eccv.ecva.net/virtual/2026/poster/3491)
+* [Tricam-rPPG: A Multimodal Multispectral Dataset for remote Photoplethysmography](https://eccv.ecva.net/virtual/2026/poster/5976)
+* [Broadband Wide Field of View Imaging with Computational Mirrors](https://eccv.ecva.net/virtual/2026/poster/3524)<br>:star:[code](https://codelab-ucr.github.io/computational-mirrors)
+* [Asymmetric Anchoring: Opening the Black Box of MLLMs for Forgery Detection](https://eccv.ecva.net/virtual/2026/poster/5294)
+* [The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding](https://eccv.ecva.net/virtual/2026/poster/3637)
+* [Dynamic Inverse Rendering for Enhanced Material-Lighting Decomposition](https://eccv.ecva.net/virtual/2026/poster/5513)
+* [Learning Ego-Centric BEV Representations from a Perspective-Privileged View: Cross-View Supervision for Online HD Map Construction](https://eccv.ecva.net/virtual/2026/poster/5994)<br>:star:[code](https://github.com/DriverlessMobility/CrossViewSupervision)
+* [BLASt3R: Bundle Adjustment of Any Image Set with Multi-View Matching and Monocular priors](https://eccv.ecva.net/virtual/2026/poster/3420)
+* [Color Pass-Through via Camera-Display Coupling](https://eccv.ecva.net/virtual/2026/poster/4780)
+* [Ranked Activation Shift for Post-hoc Out-of-Distribution Detection](https://eccv.ecva.net/virtual/2026/poster/3387)<br>:star:[code](https://eccv.ecva.net/Conferences/2026/github.com/gigug/RAS)
+* [SeeClear: Reliable Transparent Object Depth Estimation via Generative Opacification](https://eccv.ecva.net/virtual/2026/poster/3732)
+* [TurboMPLE: Joint Infrared Turbulence Mitigation and Physical Fields Estimation via Mutual Progressive Layered Extraction](https://eccv.ecva.net/virtual/2026/poster/5610)
+* [ARC-Loc: Leveraging Azimuthal Ray Convergence as a Geometric Cue for Direct Cross-View Localization](https://eccv.ecva.net/virtual/2026/poster/3676)
+* [Synthetic Sub-Aperture Phase Augmentation for Demosaicing 2×2 Shared Microlens Sensors](https://eccv.ecva.net/virtual/2026/poster/5790)
+* [SONIC: Spectral Optimization of Noise for Inpainting with Consistency](https://eccv.ecva.net/virtual/2026/poster/5954)
+* [The 3D Mirage: Probing and Taming 3D Hallucinations](https://eccv.ecva.net/virtual/2026/poster/5997)
+* [ESNE: Efficient Surface Normal Estimation for LiDAR Point Clouds with Sequential Modeling and Variability Guidance](https://eccv.ecva.net/virtual/2026/poster/5656)
+* [UHD-MFF: Shattering Barriers in Multi-Focus Ultra-High-Definition Image Fusion via Learnable Lookup Tables](https://eccv.ecva.net/virtual/2026/poster/5384)
+* [Learning to Suppress SPAD-based LiDAR Flare](https://eccv.ecva.net/virtual/2026/poster/4054)
+* [RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes](https://eccv.ecva.net/virtual/2026/poster/3360)
+* [TriNLOS: Triplane Representations for Neural Non-Line-of-Sight Imaging](https://eccv.ecva.net/virtual/2026/poster/5644)<br>:star:[code](https://github.com/jihyun-nam/TriNLOS)
+* [SOMA: From Surface Observations to Muscle Anatomy](https://eccv.ecva.net/virtual/2026/poster/5182)
+* [Modeling and Compensating Phase Error in High-speed 3D Reconstruction](https://eccv.ecva.net/virtual/2026/poster/4008)
+* [Weather-Conditioned Depth Anything](https://eccv.ecva.net/virtual/2026/poster/5620)
+* [Any to Full: Prompting Depth Anything for Depth Completion in One Stage](https://eccv.ecva.net/virtual/2026/poster/3803)<br>:star:[code](https://github.com/zhiyuandaily/Any2Full)
+* [EventSpecPS: Photometric Stereo with Multispectral Reflectance Using an Event Camera](https://eccv.ecva.net/virtual/2026/poster/4677)
+* [AiSCREAM: Absolute Target Localization with Language-Conditioned Cross-View Alignment for Autonomous Vehicles](https://eccv.ecva.net/virtual/2026/poster/4382)
+* [Physically Grounded Monocular Depth via Nanophotonic Wavefront Encoding](https://eccv.ecva.net/virtual/2026/poster/4092)
+* [CSS-BA: Gate Guided Column Space Search for Bundle Adjustment](https://eccv.ecva.net/virtual/2026/poster/5249)
+* [DP-BOA: Dirichlet-Process Birth-or-Assign for On-the-Fly Category Discovery](https://eccv.ecva.net/virtual/2026/poster/4517)
+* [Geometry-Aware Visual Representation for Remaining Useful Life Prediction](https://eccv.ecva.net/virtual/2026/poster/5418)
+* [SFD-Net: Sharp Feature Detection Network Based on Local Geometric Features](https://eccv.ecva.net/virtual/2026/poster/5657)
+* [WiFlow: Estimating Optical Flow using WiFi Channel State Information](https://eccv.ecva.net/virtual/2026/poster/3389)
+* [Mapping Dark-Matter Clusters via Physics-Guided Diffusion Models](https://eccv.ecva.net/virtual/2026/poster/5388)
+* [AIMold: An Autonomous AI-based Pipeline for Complex Mold Design](https://eccv.ecva.net/virtual/2026/poster/5227)
+* [Learning Physics-based Forward Model Corrections in Unrolled Networks for Diffuser-based Imaging](https://eccv.ecva.net/virtual/2026/poster/3268)
+* [NeLU3D: Neural Inverse Structured Light without Modeling the Projector](https://eccv.ecva.net/virtual/2026/poster/3447)
+* [Provable and Robust Wavefront Sensing via Self-Reference Interferometry](https://eccv.ecva.net/virtual/2026/poster/5546)
+* [Video Can Teach PAN-Sharpening: PSF-Aware Cross-Domain Supervision](https://eccv.ecva.net/virtual/2026/poster/5524)
+* [FoundDP: Revisiting Weak Disparity Observability in Dual-Pixel Depth Estimation](https://eccv.ecva.net/virtual/2026/poster/4903)
+* [Poppy: Polarization-Based Plug-and-Play Guidance for Enhancing Surface Normal Estimation](https://eccv.ecva.net/virtual/2026/poster/5532)
+
+## Image Generation, Editing & Diffusion ⋅ Low-Level Vision, Restoration & Generative Priors (2)
+
+* [Posterior Augmented Flow Matching](https://eccv.ecva.net/virtual/2026/poster/4579)
+* [DiTailed: Ensuring Visual Object Consistency in Text-Image-to-Image Flow Matching Models](https://eccv.ecva.net/virtual/2026/poster/3539)
+
+
+## 3D Reconstruction, Gaussian Splatting & Neural Rendering ⋅ 3D Graphics and Geometric Representations (1)
+
+* [PointSplat: Compact Gaussian Splatting via Human-Centric Prediction](https://eccv.ecva.net/virtual/2026/poster/3962)
+
+
+## 3D Reconstruction, Gaussian Splatting & Neural Rendering ⋅ Video Generation, Avatars & Dynamic Worlds (1)
+
+* [Dynamic World Generation Made Efficient](https://eccv.ecva.net/virtual/2026/poster/3754)
+
+## Geometry, Localization, Matching & Motion ⋅ 3D Reconstruction, Registration and Scene Modeling (1)
+
+* [DisentangledTMR: Privacy-Preserving Skeleton Motion Retargeting via Factorized Transformers](https://eccv.ecva.net/virtual/2026/poster/5993)
+
+
+## Open-World Recognition, Segmentation & Transfer ⋅ 3D Reconstruction, Registration and Scene Modeling (1)
+
+* [TORA: Topological Representation Alignment for 3D Shape Assembly](https://eccv.ecva.net/virtual/2026/poster/3567)
+
+
+## Computational Imaging, Shape Recovery and Camera Geometry ⋅ Low-Level Vision, Restoration & Generative Priors (1)
+
+* [Spectral and Trajectory Regularization for Diffusion Transformer Super-Resolution](https://eccv.ecva.net/virtual/2026/poster/5583)
+
+
+
+## Recognition, Tracking, Re-ID & Anomaly Detection ⋅ Federated, Continual & Efficient Learning; Model Security (1)
+
+* [COLA: Continual Orthogonal Low-Rank Adaptation for Class-Incremental Learning](https://eccv.ecva.net/virtual/2026/poster/5464)
+
+
+## Robustness, Privacy, Learning & Theory ⋅ Federated, Continual & Efficient Learning; Model Security (1)
+
+* [SlowBA: An efficiency backdoor attack towards VLM-based GUI agents](https://eccv.ecva.net/virtual/2026/poster/5078)<br>:star:[code](https://github.com/tu-tuing/SlowBA)
+
+
+## Video Understanding, Generation and Multimodal Learning ⋅ Image Generation, Editing & Diffusion (1)
+
+* [SyncCache: Exploiting Asymmetric Dynamics for Fast Audio-Driven Portrait Animation](https://eccv.ecva.net/virtual/2026/poster/3830)
+
+
+## Robustness, Privacy, Learning & Theory ⋅ Image Generation, Editing & Diffusion (1)
+
+* [MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE](https://eccv.ecva.net/virtual/2026/poster/5603)
+
+
+## Vision Foundation Models: Interpretability and Reasoning ⋅ Image Generation, Editing & Diffusion (1)
+
+* [Spanning the Visual Analogy Space with a Weight Basis of LoRAs](https://eccv.ecva.net/virtual/2026/poster/4237)
+
+
+## Video Understanding, Generation and Multimodal Learning ⋅ Low-Level Vision, Restoration & Generative Priors(视频理解、生成与多模态学习 ⋅ 底层视觉、图像修复与生成先验) (1)
+
+* [Parsimonious Flow Matching for Efficient Image Generation](https://eccv.ecva.net/virtual/2026/poster/4266)
+
+## Video Understanding, Generation and Multimodal Learning ⋅ Multimodal, Video & Document Understanding(视频理解、生成与多模态学习 ⋅ 多模态、视频及文档理解) (1)
+
+* [Transferability Between Understanding and Generation in Unified Multimodal Models](https://eccv.ecva.net/virtual/2026/poster/3137)
+
+
+
+
+<a name="0"/>
+
+## 2020 年论文分类汇总戳这里
+↘️[CVPR-2020-Papers](https://github.com/52CV/CVPR-2020-Papers) 
+↘️[ECCV-2020-Papers](https://github.com/52CV/ECCV-2020-Papers)
+
+<a name="00"/>
+
+## 2021 年论文分类汇总戳这里
+↘️[ICCV-2021-Papers](https://github.com/52CV/ICCV-2021-Papers)
+↘️[CVPR-2021-Papers](https://github.com/52CV/CVPR-2021-Papers)
+
+<a name="000"/>
+
+## 2022 年论文分类汇总戳这里
+↘️[CVPR-2022-Papers](https://github.com/52CV/CVPR-2022-Papers/blob/main/README.md)
+↘️[WACV-2022-Papers](https://github.com/52CV/WACV-2022-Papers)
+↘️[ECCV-2022-Papers](https://github.com/52CV/ECCV-2022-Papers/blob/main/README.md)
+
+<a name="0000"/>
+
+## 2023 年论文分类汇总戳这里
+↘️[CVPR-2023-Papers](https://github.com/52CV/CVPR-2023-Papers)
+↘️[WACV-2023-Papers](https://github.com/52CV/WACV-2023-Papers)
+↘️[ICCV-2023-Papers](https://github.com/52CV/ICCV-2023-Papers)
+↘️[2023-CV-Surveys](https://github.com/52CV/CV-Surveys/blob/main/2023-CV-Surveys.md)
+
+### 扫码CV君微信(注明：CVPR)入微信交流群：
+![9475fa20fd5e95235d9fa23ae9587a2](https://user-images.githubusercontent.com/62801906/156720309-de92964f-a6da-464a-b21f-cfb270c13e27.png)
