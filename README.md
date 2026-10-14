@@ -24,10 +24,10 @@
 
 # :loudspeaker::loudspeaker::loudspeaker:获奖论文
 ### :trophy:最佳论文
-* [Heat Kernel Textures -- the Geodesic Gaussians That Do Not Splat](https://eccv.ecva.net/virtual/2026/poster/3652)<br>:paper:[ECCV 2026 Oral 最佳论文奖 | 帝国理工学院提出HKTex：摆脱UV展开，用「不泼溅」的测地高斯重塑3D纹理](https://zhuanlan.zhihu.com/p/2083483025862554934)
+* [Heat Kernel Textures -- the Geodesic Gaussians That Do Not Splat](https://eccv.ecva.net/virtual/2026/poster/3652)<br>:page_facing_up:[ECCV 2026 Oral 最佳论文奖 | 帝国理工学院提出HKTex：摆脱UV展开，用「不泼溅」的测地高斯重塑3D纹理](https://zhuanlan.zhihu.com/p/2083483025862554934)
 ### :trophy:最佳论文提名
-* [LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://eccv.ecva.net/virtual/2026/poster/4770)<br>:paper:[ECCV 2026 最佳论文提名 | Meta现实实验室与英伟达联合提出LSRM：大尺度稀疏重建模型打破前向3D纹理模糊瓶颈](https://zhuanlan.zhihu.com/p/2083840998443172539)
-* [Poppy: Polarization-Based Plug-and-Play Guidance for Enhancing Surface Normal Estimation](https://eccv.ecva.net/virtual/2026/poster/5532)<br>:paper:[ECCV 2026 最佳论文提名 | 石溪大学提出Poppy：冻结RGB大模型，偏振引导单目法线估计MAE直降26%](https://zhuanlan.zhihu.com/p/2084209089232614892)
+* [LSRM: High-Fidelity Object-Centric Reconstruction via Scaled Context Windows](https://eccv.ecva.net/virtual/2026/poster/4770)<br>:page_facing_up:[ECCV 2026 最佳论文提名 | Meta现实实验室与英伟达联合提出LSRM：大尺度稀疏重建模型打破前向3D纹理模糊瓶颈](https://zhuanlan.zhihu.com/p/2083840998443172539)
+* [Poppy: Polarization-Based Plug-and-Play Guidance for Enhancing Surface Normal Estimation](https://eccv.ecva.net/virtual/2026/poster/5532)<br>:page_facing_up:[ECCV 2026 最佳论文提名 | 石溪大学提出Poppy：冻结RGB大模型，偏振引导单目法线估计MAE直降26%](https://zhuanlan.zhihu.com/p/2084209089232614892)
 
 ## 目录
 
