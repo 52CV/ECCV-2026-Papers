@@ -4,7 +4,7 @@
 
 ## 2026 年论文分类汇总戳这里
 ↘️[CVPR-2026-Papers](https://github.com/52CV/CVPR-2026-Papers)
-
+↘️[ECCV-2026-Papers](https://github.com/52CV/ECCV-2026-Papers)
 ## 2025 年论文分类汇总戳这里
 ↘️[WACV-2025-Papers](https://github.com/52CV/WACV-2025-Papers)
 ↘️[CVPR-2025-Papers](https://github.com/52CV/CVPR-2025-Papers)
